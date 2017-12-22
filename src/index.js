@@ -89,6 +89,18 @@ api.getTrainLocations = async ({code, date}) => {
 
   const unfiltered = response.ArrayOfObjTrainMovements.objTrainMovements.map(movement => {
     console.log(movement)
+    return {
+      code: movement.TrainCode,
+      date: movement.TrainDate,
+      terminii: {
+        from: movement.TrainOrigin,
+        from: movement.TrainDestination
+      },
+      currentLocation: {
+        code: movement.LocationCode,
+        name: movement.LocationFullName
+      }
+    }
   })
 
   return unfiltered
