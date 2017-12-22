@@ -1,6 +1,5 @@
 
 # Irish Trains
----
 
 *Table of contents*
 
