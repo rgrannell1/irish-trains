@@ -19,11 +19,11 @@ const api = {}
 
 const irishRailRequest = (path, params = {}) => {
   return request({
-    uri: `{constants.sites.irishRail}/${path}`,
+    uri: `${constants.sites.irishRail}/${path}`,
     qs: Object.assign({}, params)
   })
   .then(result => {
-    return JSON.parse(parseXML.toJson(result)
+    return JSON.parse(parseXML.toJson(result))
   })
 }
 
@@ -44,7 +44,7 @@ api.getTrains = async ({status, code}) => {
     throw new Error('invalid status')
   }
 
-  const response = irishRailRequest('realtime/realtime.asmx/getCurrentTrainsXML')
+  const response = await irishRailRequest('realtime/realtime.asmx/getCurrentTrainsXML')
   const unfiltered = response.ArrayOfObjTrainPositions.objTrainPositions.map(train => {
 
     let status = ''
@@ -81,7 +81,17 @@ api.getTrains = async ({status, code}) => {
  *
  *  @return {Promise} a result promise yielding a list of results.
  */
-api.getTrainLocations = ({code, date}) => {
-  const response = irishRailRequest('realtime/realtime.asmx/getCurrentTrainsXML', {code, data})
+api.getTrainLocations = async ({code, date}) => {
+  const response = await irishRailRequest('realtime/realtime.asmx/getTrainMovementsXML', {
+    TrainId: code,
+    TrainDate: date
+  })
 
+  const unfiltered = response.ArrayOfObjTrainMovements.objTrainMovements.map(movement => {
+    console.log(movement)
+  })
+
+  return unfiltered
 }
+
+api.getTrainLocations({code: 'e109', date: '21-dec-2011'})
