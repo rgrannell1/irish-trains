@@ -1,0 +1,14 @@
+{
+  "name": "irish-trains",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rgrannell1/irish-trains.git",
+  "author": "rgrannell1 <r.grannell2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.0"
+  }
+}
