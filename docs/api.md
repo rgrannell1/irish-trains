@@ -17,8 +17,8 @@ class TrainStatus {
   status <string>
   code <string>
   position: {
-  	longitude <number>
-  	latitude <number>
+    longitude <number>
+    latitude <number>
   }
   searchTime <number>
 }
