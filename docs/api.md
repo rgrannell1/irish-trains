@@ -1,5 +1,5 @@
 
-# Irish Trains
+# IrishRail
 
 *Table of contents*
 
