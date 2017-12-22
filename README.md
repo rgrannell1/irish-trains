@@ -1,4 +1,6 @@
-# irish-trains
+# IrishRail
+
+**note: this client was created independently of Irish Rail.**
 
 
 ## API
