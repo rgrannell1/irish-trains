@@ -5,7 +5,16 @@ const constants = require('./constants')
 
 const api = {}
 
-api.getTrains = async ({status}) => {
+/**
+ * list the status and position of IrishRail trains
+ *
+ * @param  {object} config
+ * @param  {string} config.status the status of a train. Either running or not_running. Optional.
+ * @param  {string} config.code the code of a train. Optional.
+ *
+ *  @return {Promise} a result promise yielding a list of results.
+ */
+api.getTrains = async ({status, code}) => {
 
   const allowedStatuses = new Set(['running', 'not_running'])
 
@@ -47,6 +56,10 @@ api.getTrains = async ({status}) => {
 
     if (status) {
       shouldInclude = shouldInclude && train.status === status
+    }
+
+    if (code) {
+      shouldInclude = shouldInclude && train.code === code
     }
 
     return shouldInclude
