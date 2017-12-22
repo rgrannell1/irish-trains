@@ -27,5 +27,5 @@ class TrainStatus {
 
 - `options`: <Object>
   - `status` <string> if included, filter a train's status. Statuses include `running` and `not_running`.
-  -
+  - `code` <string> if included, filter by a train's code. This is a unique identifier for a train.
 - returns: <Promise<Array<TrainStatus>>>
