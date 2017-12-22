@@ -3,7 +3,29 @@ const parseXML = require('xml2json')
 const request = require('request-promise-native')
 const constants = require('./constants')
 
+
+Object.matches = (target, filter) => {
+  return Object.entries(filter).every(([key, val]) => {
+    if (typeof val === 'object' && val !== null) {
+      return Object.matches(target[key], val)
+    } else {
+      return target[key] === val
+    }
+  })
+}
+
+
 const api = {}
+
+const irishRailRequest = (path, params = {}) => {
+  return request({
+    uri: `{constants.sites.irishRail}/${path}`,
+    qs: Object.assign({}, params)
+  })
+  .then(result => {
+    return JSON.parse(parseXML.toJson(result)
+  })
+}
 
 /**
  * list the status and position of IrishRail trains
@@ -22,11 +44,8 @@ api.getTrains = async ({status, code}) => {
     throw new Error('invalid status')
   }
 
-  const url = `${constants.sites.irishRail}/${constants.sitePaths.getTrains}`
-  const result = await request(url)
-  const parsed = JSON.parse(parseXML.toJson(result))
-
-  const unfiltered = parsed.ArrayOfObjTrainPositions.objTrainPositions.map(train => {
+  const response = irishRailRequest('realtime/realtime.asmx/getCurrentTrainsXML')
+  const unfiltered = response.ArrayOfObjTrainPositions.objTrainPositions.map(train => {
 
     let status = ''
     const searchTime = Date.now()
@@ -50,20 +69,19 @@ api.getTrains = async ({status, code}) => {
     }
   })
 
-  return unfiltered.filter(train => {
+  return unfiltered.filter(train => Object.matches(train, {status, code}))
+}
 
-    let shouldInclude = true
-
-    if (status) {
-      shouldInclude = shouldInclude && train.status === status
-    }
-
-    if (code) {
-      shouldInclude = shouldInclude && train.code === code
-    }
-
-    return shouldInclude
-
-  })
+/**
+ * list all recorded positions for an irish-rail train on a given date.
+ *
+ * @param  {object} config
+ * @param  {string} config.code the id of a train. Either running or not_running. Required.
+ * @param  {string} config.date the date you want results for. Required.
+ *
+ *  @return {Promise} a result promise yielding a list of results.
+ */
+api.getTrainLocations = ({code, date}) => {
+  const response = irishRailRequest('realtime/realtime.asmx/getCurrentTrainsXML', {code, data})
 
 }
