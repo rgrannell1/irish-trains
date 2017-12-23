@@ -6,6 +6,9 @@ const constants = require('./constants')
 
 Object.matches = (target, filter) => {
   return Object.entries(filter).every(([key, val]) => {
+    if (typeof val === 'undefined') {
+      return true
+    }
     if (typeof val === 'object' && val !== null) {
       return Object.matches(target[key], val)
     } else {
@@ -15,7 +18,7 @@ Object.matches = (target, filter) => {
 }
 
 
-const api = {}
+const api = {geoJSON: {}}
 
 const irishRailRequest = (path, params = {}) => {
   return request({
@@ -36,11 +39,11 @@ const irishRailRequest = (path, params = {}) => {
  *
  *  @return {Promise} a result promise yielding a list of results.
  */
-api.getTrains = async ({status, code}) => {
+api.getTrains = async ({status, code, format = 'raw'}) => {
 
   const allowedStatuses = new Set(['running', 'not_running'])
 
-  if (!allowedStatuses.has(status)) {
+  if (status && !allowedStatuses.has(status)) {
     throw new Error('invalid status')
   }
 
@@ -61,7 +64,7 @@ api.getTrains = async ({status, code}) => {
     return {
       status,
       code: train.TrainCode,
-      position: {
+      location: {
         longitude: train.TrainLongitude,
         latitude: train.TrainLatitude
       },
@@ -69,7 +72,26 @@ api.getTrains = async ({status, code}) => {
     }
   })
 
-  return unfiltered.filter(train => Object.matches(train, {status, code}))
+  const filtered = unfiltered.filter(train => Object.matches(train, {status, code}))
+
+  if (format === 'raw') {
+    return filtered
+  } else if (format === 'geojson') {
+    const features = filtered.map(data => {
+      return {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [data.location.longitude, data.location.latitude]
+        },
+        properties: {
+          name: data.code
+        }
+      }
+    })
+
+    return {type: 'FeatureCollection', features}
+  }
 }
 
 /**
@@ -88,8 +110,6 @@ api.getTrainLocations = async ({code, date}) => {
   })
 
   const unfiltered = response.ArrayOfObjTrainMovements.objTrainMovements.map(movement => {
-    console.log(movement)
-
     let locationType = ''
 
     if (movement.LocationType === 'O') {
@@ -117,7 +137,7 @@ api.getTrainLocations = async ({code, date}) => {
         arrival: movement.ExpectedArrival,
         departure: movement.ExpectedDeparture
       },
-      currentLocation: {
+      location: {
         code: movement.LocationCode,
         name: movement.LocationFullName,
         type: locationType
@@ -125,9 +145,50 @@ api.getTrainLocations = async ({code, date}) => {
     }
   })
 
-  console.log(unfiltered)
+  return unfiltered
+}
+
+/**
+ *
+ */
+api.getStations = async ({format = 'raw'}) => {
+  const response = await irishRailRequest('realtime/realtime.asmx/getAllStationsXML', {})
+
+  const unfiltered = response.ArrayOfObjStation.objStation.map(station => {
+    return {
+      name: station.StationDesc,
+      code: station.StationCode,
+      location: {
+        latitude: station.StationLatitude,
+        longitude: station.StationLongitude,
+      }
+    }
+  })
+
+  if (format === 'raw') {
+    return unfiltered
+  } else if (format === 'geojson') {
+    const features = unfiltered.map(data => {
+      return {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [data.location.longitude, data.location.latitude]
+        },
+        properties: {
+          name: data.code
+        }
+      }
+    })
+
+    return {type: 'FeatureCollection', features}
+  }
 
   return unfiltered
 }
 
-api.getTrainLocations({code: 'e109', date: '21-dec-2011'})
+module.exports = api
+api.getStations({format: 'geojson'})
+.then(x => {
+  console.log(JSON.stringify(x))
+})
