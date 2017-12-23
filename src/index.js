@@ -89,19 +89,43 @@ api.getTrainLocations = async ({code, date}) => {
 
   const unfiltered = response.ArrayOfObjTrainMovements.objTrainMovements.map(movement => {
     console.log(movement)
+
+    let locationType = ''
+
+    if (movement.LocationType === 'O') {
+      locationType = 'origin'
+    } else if (movement.LocationType === 'S') {
+      locationType = 'stop'
+    } else if (movement.LocationType === 'T') {
+      locationType = 'timing-point'
+    } else if (movement.LocationType === 'D') {
+      locationType = 'destination'
+    }
+
     return {
       code: movement.TrainCode,
       date: movement.TrainDate,
       terminii: {
         from: movement.TrainOrigin,
-        from: movement.TrainDestination
+        to: movement.TrainDestination
+      },
+      schedule: {
+        arrival: movement.ScheduledArrival,
+        departure: movement.ScheduledDeparture
+      },
+      expected: {
+        arrival: movement.ExpectedArrival,
+        departure: movement.ExpectedDeparture
       },
       currentLocation: {
         code: movement.LocationCode,
-        name: movement.LocationFullName
+        name: movement.LocationFullName,
+        type: locationType
       }
     }
   })
+
+  console.log(unfiltered)
 
   return unfiltered
 }
