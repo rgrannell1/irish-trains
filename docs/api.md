@@ -22,6 +22,9 @@ class TrainStatus {
   searchTime <number>
 }
 ```
+### Class: TrainJourney
+
+Object summarising an active train's location and stops en-route.
 
 ```
 class DetailedTrainStatus {
@@ -59,4 +62,4 @@ class DetailedTrainStatus {
  - `options`: <Object>
    - `code` <string> the id of a train. Either running or not_running. Required.
    - `date` <string> the date you want results for. Required.
- - returns: <Promise<Array<DetailedTrainStatus>>
+ - returns: <Promise<Array<TrainJourney>>
