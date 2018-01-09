@@ -23,6 +23,29 @@ class TrainStatus {
 }
 ```
 
+```
+class DetailedTrainStatus {
+  code <string>
+  date <string>
+  terminii: {
+    from <string>
+    to <string>
+  }
+  schedule: {
+    arrival <string>
+    departure <string>
+  }
+  expected: {
+    arrival <string>
+    departure <string>
+  }
+  location: {
+    code <string>
+    name <string>
+    type <string>
+  }
+}
+```
 #### api.getTrains()
 
 - `options`: <Object>
@@ -36,4 +59,4 @@ class TrainStatus {
  - `options`: <Object>
    - `code` <string> the id of a train. Either running or not_running. Required.
    - `date` <string> the date you want results for. Required.
- - returns: <Promise<Array<TrainLocation>>
+ - returns: <Promise<Array<DetailedTrainStatus>>
