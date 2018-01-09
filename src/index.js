@@ -30,6 +30,14 @@ const irishRailRequest = (path, params = {}) => {
   })
 }
 
+const busRequest = (path, params = {}) => {
+  return request({
+    uri: `${constants.sites.dubLinked}/${path}`,
+    qs: Object.assign({}, params),
+    json: true
+  })
+}
+
 /**
  * list the status and position of IrishRail trains
  *
@@ -185,6 +193,10 @@ api.getStations = async ({format = 'raw'}) => {
   }
 
   return unfiltered
+}
+
+api.getBusStops = async () => {
+  const response = await busRequest('cgi-bin/rtpi/busstopinformation', {stopid: true, format: 'json'})
 }
 
 module.exports = api
