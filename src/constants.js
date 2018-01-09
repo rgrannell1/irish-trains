@@ -1,7 +1,8 @@
 
 const constants = {
   sites: {
-    irishRail: 'http://api.irishrail.ie'
+    irishRail: 'http://api.irishrail.ie',
+    dubLinked: 'https://data.dublinked.ie'
   }
 }
 
