@@ -49,6 +49,7 @@ class DetailedTrainStatus {
   }
 }
 ```
+
 #### api.getTrains()
 
 - `options`: <Object>
@@ -56,7 +57,8 @@ class DetailedTrainStatus {
   - `code` <string> if included, filter by a train's code. This is a unique identifier for a train.
   - `format` <string> the result format. Options are `raw` or `geojson`.
 - returns: <Promise<Array<TrainStatus>>>
- 
+
+
 #### api.getTrainLocations()
  
 - `options`: <Object>
