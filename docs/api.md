@@ -50,6 +50,21 @@ class DetailedTrainStatus {
 }
 ```
 
+### Class: TrainStation
+
+Object describing a train-station.
+
+```
+class DetailedTrainStatus {
+  name <string>
+  code <string>
+  location: {
+    code <string>
+    name <string>
+    type <string>
+  }
+}
+```
 #### api.getTrains()
 
 - `options`: <Object>
@@ -58,11 +73,15 @@ class DetailedTrainStatus {
   - `format` <string> the result format. Options are `raw` or `geojson`.
 - returns: <Promise<Array<TrainStatus>>>
 
----
-
 #### api.getTrainLocations()
- 
+
 - `options`: <Object>
   - `code` <string> the id of a train. Either running or not_running. Required.
   - `date` <string> the date you want results for. Required.
 - returns: <Promise<Array<TrainJourney>>
+
+### api.getStations()
+
+- `options`: <Object>
+  - `format` <string> the result format. Options are `raw` or `geojson`.
+- returns: <Promise<Array<TrainStation>>>
