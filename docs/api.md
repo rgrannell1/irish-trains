@@ -58,6 +58,7 @@ class DetailedTrainStatus {
   - `format` <string> the result format. Options are `raw` or `geojson`.
 - returns: <Promise<Array<TrainStatus>>>
 
+---
 
 #### api.getTrainLocations()
  
