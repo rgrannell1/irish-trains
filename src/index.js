@@ -188,7 +188,3 @@ api.getStations = async ({format = 'raw'}) => {
 }
 
 module.exports = api
-api.getStations({format: 'geojson'})
-.then(x => {
-  console.log(JSON.stringify(x))
-})
