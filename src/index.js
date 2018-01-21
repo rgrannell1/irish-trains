@@ -195,8 +195,57 @@ api.getStations = async ({format = 'raw'}) => {
   return unfiltered
 }
 
-api.getBusStops = async () => {
-  const response = await busRequest('cgi-bin/rtpi/busstopinformation', {stopid: true, format: 'json'})
+api.getBusStops = async ({format = 'raw'}) => {
+  const response = await busRequest('cgi-bin/rtpi/busstopinformation?stopid&format=json')
+
+  if (response.errorcode !== '0') {
+    throw new Error(`error-code ${response.errorcode}: ${response.errormessage}`)
+  }
+
+  const unfiltered = response.results.map(stop => {
+    return {
+      id: stop.stopid,
+      displayId: stop.displaystopid,
+      name: {
+        short: stop.shortname,
+        shortLocalised: stop.shortnamelocalized,
+        full: stop.fullname,
+        fullLocalised: stop.fullnamelocalized
+      },
+      location: {
+        longitude: parseFloat(stop.longitude),
+        latitude: parseFloat(stop.latitude)
+      },
+      updatedAt: stop.lastupdated,
+      operators: stop.operators
+    }
+  })
+
+  if (format === 'raw') {
+    return unfiltered
+  } else if (format === 'geojson') {
+     const features = unfiltered.map(data => {
+      return {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [data.location.longitude, data.location.latitude]
+        },
+        properties: {
+          name: data.name.full
+        }
+      }
+    })
+
+     console.log(JSON.stringify(features, null, 2))
+
+    return features
+  }
+
 }
 
+api.getStopSchedule = async () => {
+  const response = await busRequest('cgi-bin/rtpi/busstopinformation', {stopid: true, format: 'json'})
+}
+api.getBusStops({format: 'geojson'})
 module.exports = api
