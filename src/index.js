@@ -2,6 +2,7 @@
 const parseXML = require('xml2json')
 const request = require('request-promise-native')
 const constants = require('./constants')
+const utils = require('./utils')
 
 
 Object.matches = (target, filter) => {
@@ -30,12 +31,17 @@ const irishRailRequest = (path, params = {}) => {
   })
 }
 
-const busRequest = (path, params = {}) => {
-  return request({
+const busRequest = async (path, params = {}) => {
+  const response = await request({
     uri: `${constants.sites.dubLinked}/${path}`,
     qs: Object.assign({}, params),
     json: true
   })
+  if (response.errorcode !== '0') {
+    throw new Error(`error-code ${response.errorcode}: ${response.errormessage}`)
+  }
+
+  return response
 }
 
 /**
@@ -195,12 +201,8 @@ api.getStations = async ({format = 'raw'}) => {
   return unfiltered
 }
 
-api.getBusStops = async ({format = 'raw'}) => {
+api.getBusStops = async ({fields = null, format = 'raw'}) => {
   const response = await busRequest('cgi-bin/rtpi/busstopinformation?stopid&format=json')
-
-  if (response.errorcode !== '0') {
-    throw new Error(`error-code ${response.errorcode}: ${response.errormessage}`)
-  }
 
   const unfiltered = response.results.map(stop => {
     return {
@@ -221,10 +223,14 @@ api.getBusStops = async ({format = 'raw'}) => {
     }
   })
 
+  const filtered = fields
+    ? [utils.array.findObj(fields, unfiltered)]
+    : unfiltered
+
   if (format === 'raw') {
-    return unfiltered
+    return filtered
   } else if (format === 'geojson') {
-     const features = unfiltered.map(data => {
+     const features = filtered.map(data => {
       return {
         type: 'Feature',
         geometry: {
@@ -237,9 +243,9 @@ api.getBusStops = async ({format = 'raw'}) => {
       }
     })
 
-     console.log(JSON.stringify(features, null, 2))
+     console.log(JSON.stringify({type: 'FeatureCollection', features}, null, 2))
 
-    return features
+     return {type: 'FeatureCollection', features}
   }
 
 }
@@ -247,5 +253,27 @@ api.getBusStops = async ({format = 'raw'}) => {
 api.getStopSchedule = async () => {
   const response = await busRequest('cgi-bin/rtpi/busstopinformation', {stopid: true, format: 'json'})
 }
-api.getBusStops({format: 'geojson'})
+
+api.getOperators = async ({fields = null}) => {
+  const response = await busRequest('cgi-bin/rtpi/operatorinformation', {format: 'json'})
+
+  const formatted = response.results.map(data => {
+    return {
+      reference: data.operatorreference,
+      name: data.operatorname,
+      description: data.operatordescription
+    }
+  })
+
+  return fields
+    ? utils.array.findObj(fields, formatted)
+    : formatted
+}
+
+const x = api.getBusStops({
+  fields: {
+    'name.short': 'Parnell Square'
+  }
+})
+
 module.exports = api
