@@ -11,7 +11,10 @@
         ]
       },
       "properties": {
-        "name": "Maree (School)"
+        "name": "Maree (School)",
+        "operators": [
+          "BE (route 350)"
+        ]
       }
     },
     {
@@ -24,7 +27,10 @@
         ]
       },
       "properties": {
-        "name": "Maree (Costcutter)"
+        "name": "Maree (Costcutter)",
+        "operators": [
+          "BE (route 350)"
+        ]
       }
     },
     {
@@ -37,7 +43,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Clayton Hotel)"
+        "name": "Monivea Rd (Clayton Hotel)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -50,7 +59,10 @@
         ]
       },
       "properties": {
-        "name": "Lime Kiln (Opp Clada Group)"
+        "name": "Lime Kiln (Opp Clada Group)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -63,7 +75,10 @@
         ]
       },
       "properties": {
-        "name": "Ballindooley Cross (Northbound)"
+        "name": "Ballindooley Cross (Northbound)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -76,7 +91,10 @@
         ]
       },
       "properties": {
-        "name": "Curramore Bridge (Northbound)"
+        "name": "Curramore Bridge (Northbound)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -89,7 +107,10 @@
         ]
       },
       "properties": {
-        "name": "Clonboo (Cunniffes Bar)"
+        "name": "Clonboo (Cunniffes Bar)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -102,7 +123,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Ind Est (Entrance)"
+        "name": "Ballybane Ind Est (Entrance)",
+        "operators": [
+          "BE (route 456, 405)"
+        ]
       }
     },
     {
@@ -115,7 +139,10 @@
         ]
       },
       "properties": {
-        "name": "Spanish Parade (Spanish Arch)"
+        "name": "Spanish Parade (Spanish Arch)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -128,7 +155,10 @@
         ]
       },
       "properties": {
-        "name": "Fr Griffin Rd (Opp Fr Griffin Park)"
+        "name": "Fr Griffin Rd (Opp Fr Griffin Park)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -141,7 +171,10 @@
         ]
       },
       "properties": {
-        "name": "Fr Griffin Ave (Opp Sea Road)"
+        "name": "Fr Griffin Ave (Opp Sea Road)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -154,7 +187,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Ind Est.(Hewlett Packard)"
+        "name": "Ballybane Ind Est.(Hewlett Packard)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -167,7 +203,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Lios Ealtan)"
+        "name": "Salthill Rd Lwr (Lios Ealtan)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -180,7 +219,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (St Josephs)"
+        "name": "Salthill Rd Lwr (St Josephs)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -193,7 +235,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Opp Devon Park)"
+        "name": "Salthill Rd Lwr (Opp Devon Park)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -206,7 +251,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Opp Warwick Hotel)"
+        "name": "Salthill Rd Lwr (Opp Warwick Hotel)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -219,7 +267,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Canton Kitchen)"
+        "name": "Upper Salthill Rd (Canton Kitchen)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -232,7 +283,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Opp Western House)"
+        "name": "Upper Salthill Rd (Opp Western House)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -245,7 +299,10 @@
         ]
       },
       "properties": {
-        "name": "Dalysfort Rd (Top of Hill)"
+        "name": "Dalysfort Rd (Top of Hill)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -258,7 +315,10 @@
         ]
       },
       "properties": {
-        "name": "Dalysfort Rd (Hollands Shop)"
+        "name": "Dalysfort Rd (Hollands Shop)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -271,7 +331,10 @@
         ]
       },
       "properties": {
-        "name": "Dalysfort Rd (Dr Mannix Rd Jctn)"
+        "name": "Dalysfort Rd (Dr Mannix Rd Jctn)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -284,7 +347,10 @@
         ]
       },
       "properties": {
-        "name": "Dr Mannix Rd (GAA Pitch)"
+        "name": "Dr Mannix Rd (GAA Pitch)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -297,7 +363,10 @@
         ]
       },
       "properties": {
-        "name": "Threadneedle Rd (Opp Tennis Courts)"
+        "name": "Threadneedle Rd (Opp Tennis Courts)",
+        "operators": [
+          "BE (route 401, 434)"
+        ]
       }
     },
     {
@@ -310,7 +379,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Diving Board)"
+        "name": "Upper Salthill Rd (Diving Board)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -323,7 +395,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Salthill Hotel)"
+        "name": "Upper Salthill Rd (Salthill Hotel)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -336,7 +411,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Waterfront)"
+        "name": "Upper Salthill Rd (Waterfront)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -349,7 +427,10 @@
         ]
       },
       "properties": {
-        "name": "Upper Salthill Rd (Caesars Palace)"
+        "name": "Upper Salthill Rd (Caesars Palace)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -362,7 +443,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Opp Kelleghers Gar)"
+        "name": "Salthill Rd Lwr (Opp Kelleghers Gar)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -375,7 +459,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Devon Park)"
+        "name": "Salthill Rd Lwr (Devon Park)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -388,7 +475,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Feeneys Shop)"
+        "name": "Salthill Rd Lwr (Feeneys Shop)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -401,7 +491,10 @@
         ]
       },
       "properties": {
-        "name": "Salthill Rd Lwr (Opp Lios Ealtan)"
+        "name": "Salthill Rd Lwr (Opp Lios Ealtan)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -414,7 +507,10 @@
         ]
       },
       "properties": {
-        "name": "Fr Griffin Ave (Montpellier Terrace)"
+        "name": "Fr Griffin Ave (Montpellier Terrace)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -427,7 +523,10 @@
         ]
       },
       "properties": {
-        "name": "Fr Griffin Rd (Fr Griffin Park)"
+        "name": "Fr Griffin Rd (Fr Griffin Park)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -440,7 +539,10 @@
         ]
       },
       "properties": {
-        "name": "Dr Mannix Rd (Rockbarton Rd )"
+        "name": "Dr Mannix Rd (Rockbarton Rd )",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -453,7 +555,10 @@
         ]
       },
       "properties": {
-        "name": "Spanish Parade (Jurys Hotel)"
+        "name": "Spanish Parade (Jurys Hotel)",
+        "operators": [
+          "BE (route 401, 424)"
+        ]
       }
     },
     {
@@ -466,7 +571,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square South (Stop No 9)"
+        "name": "Eyre Square South (Stop No 9)",
+        "operators": [
+          "BE (route 401)"
+        ]
       }
     },
     {
@@ -479,7 +587,10 @@
         ]
       },
       "properties": {
-        "name": "Shangort Rd (Cotters Shop)"
+        "name": "Shangort Rd (Cotters Shop)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -492,7 +603,10 @@
         ]
       },
       "properties": {
-        "name": "Shangort Rd (Church)"
+        "name": "Shangort Rd (Church)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -505,7 +619,10 @@
         ]
       },
       "properties": {
-        "name": "Ballymoneen Rd (Barna Rd Jctn)"
+        "name": "Ballymoneen Rd (Barna Rd Jctn)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -518,7 +635,10 @@
         ]
       },
       "properties": {
-        "name": "Barna Road (Knocknacarra Cross)"
+        "name": "Barna Road (Knocknacarra Cross)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -531,7 +651,10 @@
         ]
       },
       "properties": {
-        "name": "Knocknacarra (Topaz Filling Stat)"
+        "name": "Knocknacarra (Topaz Filling Stat)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -544,7 +667,10 @@
         ]
       },
       "properties": {
-        "name": "Knocknacarra Rd (Burren View Hts)"
+        "name": "Knocknacarra Rd (Burren View Hts)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -557,7 +683,10 @@
         ]
       },
       "properties": {
-        "name": "Knocknacarra Rd (Opp Woodlawn)"
+        "name": "Knocknacarra Rd (Opp Woodlawn)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -570,7 +699,10 @@
         ]
       },
       "properties": {
-        "name": "Kingston Rd (Kingston Gardens)"
+        "name": "Kingston Rd (Kingston Gardens)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -583,7 +715,10 @@
         ]
       },
       "properties": {
-        "name": "Kingston Rd (Manor Drive)"
+        "name": "Kingston Rd (Manor Drive)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -596,7 +731,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill Rd (Threadneedle Junct)"
+        "name": "Taylors Hill Rd (Threadneedle Junct)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -609,7 +747,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill Rd (Opp Ardmore)"
+        "name": "Taylors Hill Rd (Opp Ardmore)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -622,7 +763,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill Rd (Highfield Park)"
+        "name": "Taylors Hill Rd (Highfield Park)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -635,7 +779,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill Rd (Opp St Annes)"
+        "name": "Taylors Hill Rd (Opp St Annes)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -648,7 +795,10 @@
         ]
       },
       "properties": {
-        "name": "Maunsells Rd (Maunsells Rd Junc)"
+        "name": "Maunsells Rd (Maunsells Rd Junc)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -661,7 +811,10 @@
         ]
       },
       "properties": {
-        "name": "Maunsells Rd (Higgins DIY)"
+        "name": "Maunsells Rd (Higgins DIY)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -674,7 +827,10 @@
         ]
       },
       "properties": {
-        "name": "Colmcille Rd (Scoil Bride)"
+        "name": "Colmcille Rd (Scoil Bride)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -687,7 +843,10 @@
         ]
       },
       "properties": {
-        "name": "Colmcille Rd (Opp Community Centre)"
+        "name": "Colmcille Rd (Opp Community Centre)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -700,7 +859,10 @@
         ]
       },
       "properties": {
-        "name": "Costello Rd (Opp McDara Rd)"
+        "name": "Costello Rd (Opp McDara Rd)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -713,7 +875,10 @@
         ]
       },
       "properties": {
-        "name": "Costello Rd (HSE Clinic)"
+        "name": "Costello Rd (HSE Clinic)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -726,7 +891,10 @@
         ]
       },
       "properties": {
-        "name": "Newcastle Rd (University Hospital)"
+        "name": "Newcastle Rd (University Hospital)",
+        "operators": [
+          "BE (route 403, 402, 424)"
+        ]
       }
     },
     {
@@ -739,7 +907,10 @@
         ]
       },
       "properties": {
-        "name": "University Rd (NUIG Main Gate)"
+        "name": "University Rd (NUIG Main Gate)",
+        "operators": [
+          "BE (route 419, 402, 403, 405, 404)"
+        ]
       }
     },
     {
@@ -752,7 +923,10 @@
         ]
       },
       "properties": {
-        "name": "University Rd (Cathedral)"
+        "name": "University Rd (Cathedral)",
+        "operators": [
+          "BE (route 404, 405, 403, 402)"
+        ]
       }
     },
     {
@@ -765,7 +939,10 @@
         ]
       },
       "properties": {
-        "name": "Francis St (Opp Abbey Church)"
+        "name": "Francis St (Opp Abbey Church)",
+        "operators": [
+          "BE (route 402, 403, 405, 404, 419, 407, 424)"
+        ]
       }
     },
     {
@@ -778,7 +955,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square North (Stop No 1)"
+        "name": "Eyre Square North (Stop No 1)",
+        "operators": [
+          "BE (route 404, 405, 402)"
+        ]
       }
     },
     {
@@ -791,7 +971,10 @@
         ]
       },
       "properties": {
-        "name": "Prospect Hill (Fahys Pub)"
+        "name": "Prospect Hill (Fahys Pub)",
+        "operators": [
+          "BE (route 402, 405, 425, 409)"
+        ]
       }
     },
     {
@@ -804,7 +987,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (Opp Tonerys Pub)"
+        "name": "Bohermore (Opp Tonerys Pub)",
+        "operators": [
+          "BE (route 409, 425, 405, 402)"
+        ]
       }
     },
     {
@@ -817,7 +1003,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (Liam Mellows Tce)"
+        "name": "Bohermore (Liam Mellows Tce)",
+        "operators": [
+          "BE (route 402, 405, 425, 409)"
+        ]
       }
     },
     {
@@ -830,7 +1019,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (Spar Filling Station)"
+        "name": "Bohermore (Spar Filling Station)",
+        "operators": [
+          "BE (route 409, 425, 405, 402)"
+        ]
       }
     },
     {
@@ -843,7 +1035,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (G Hotel)"
+        "name": "Dublin Rd (G Hotel)",
+        "operators": [
+          "BE (route 402, 404, 424, 409, 434)"
+        ]
       }
     },
     {
@@ -856,7 +1051,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Renmore Park)"
+        "name": "Dublin Rd (Opp Renmore Park)",
+        "operators": [
+          "BE (route 409, 404, 402)"
+        ]
       }
     },
     {
@@ -869,7 +1067,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Bon Secours Hosp)"
+        "name": "Renmore Rd (Bon Secours Hosp)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -882,7 +1083,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Opp Molloys Centra)"
+        "name": "Renmore Rd (Opp Molloys Centra)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -895,7 +1099,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Dun Na Mara)"
+        "name": "Renmore Rd (Dun Na Mara)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -908,7 +1115,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Opp Army Barracks)"
+        "name": "Renmore Rd (Opp Army Barracks)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -921,7 +1131,10 @@
         ]
       },
       "properties": {
-        "name": "Hawthorne Drive (Blackthorn Pk)"
+        "name": "Hawthorne Drive (Blackthorn Pk)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -934,7 +1147,10 @@
         ]
       },
       "properties": {
-        "name": "Hawthorn Drive (Rowan Ave)"
+        "name": "Hawthorn Drive (Rowan Ave)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -947,7 +1163,10 @@
         ]
       },
       "properties": {
-        "name": "Fuschia Drive (Larchfield Ave)"
+        "name": "Fuschia Drive (Larchfield Ave)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -960,7 +1179,10 @@
         ]
       },
       "properties": {
-        "name": "Ballyloughane Rd (Op Murrough Ave Jct)"
+        "name": "Ballyloughane Rd (Op Murrough Ave Jct)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -973,7 +1195,10 @@
         ]
       },
       "properties": {
-        "name": "Ballyloughane Rd (Dairies)"
+        "name": "Ballyloughane Rd (Dairies)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -986,7 +1211,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Merlin Park Gate)"
+        "name": "Dublin Rd (Merlin Park Gate)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -999,7 +1227,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (GMIT)"
+        "name": "Dublin Rd (GMIT)",
+        "operators": [
+          "BE (route 402, 404, 409, 419, 424, 434, 20, X51, 51, 350, 70, 64, X20)"
+        ]
       }
     },
     {
@@ -1012,7 +1243,10 @@
         ]
       },
       "properties": {
-        "name": "Merlin Park Terminus (Merlin Church)"
+        "name": "Merlin Park Terminus (Merlin Church)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1025,7 +1259,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Woodhaven)"
+        "name": "Dublin Rd (Opp Woodhaven)",
+        "operators": [
+          "BE (route 402, 404, 409)"
+        ]
       }
     },
     {
@@ -1038,7 +1275,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp GMIT)"
+        "name": "Dublin Rd (Opp GMIT)",
+        "operators": [
+          "BE (route 409, 404, 402, 20, 434, X51, X20, 64, 350, 51)"
+        ]
       }
     },
     {
@@ -1051,7 +1291,10 @@
         ]
       },
       "properties": {
-        "name": "Ballyloughane Rd (Opp Dairies)"
+        "name": "Ballyloughane Rd (Opp Dairies)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1064,7 +1307,10 @@
         ]
       },
       "properties": {
-        "name": "Ballyloughane Rd (Murrough Ave Jct)"
+        "name": "Ballyloughane Rd (Murrough Ave Jct)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1077,7 +1323,10 @@
         ]
       },
       "properties": {
-        "name": "Fuschia Drive (Opp Larchfield Ave)"
+        "name": "Fuschia Drive (Opp Larchfield Ave)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1090,7 +1339,10 @@
         ]
       },
       "properties": {
-        "name": "Hawthorne Drive (Opp Rowan Ave)"
+        "name": "Hawthorne Drive (Opp Rowan Ave)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1103,7 +1355,10 @@
         ]
       },
       "properties": {
-        "name": "Hawthorne Drive (Opp Blackthorn Pk)"
+        "name": "Hawthorne Drive (Opp Blackthorn Pk)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1116,7 +1371,10 @@
         ]
       },
       "properties": {
-        "name": "Hawthorne Drive (Arbutus Ave Jctn)"
+        "name": "Hawthorne Drive (Arbutus Ave Jctn)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1129,7 +1387,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Army Barracks)"
+        "name": "Renmore Rd (Army Barracks)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1142,7 +1403,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Opp Dun Na Mara)"
+        "name": "Renmore Rd (Opp Dun Na Mara)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1155,7 +1419,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Molloys Centra)"
+        "name": "Renmore Rd (Molloys Centra)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1168,7 +1435,10 @@
         ]
       },
       "properties": {
-        "name": "Renmore Rd (Duggans Shop)"
+        "name": "Renmore Rd (Duggans Shop)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1181,7 +1451,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Woodlands)"
+        "name": "Dublin Rd (Woodlands)",
+        "operators": [
+          "BE (route 402, 404, 409)"
+        ]
       }
     },
     {
@@ -1194,7 +1467,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp G Hotel)"
+        "name": "Dublin Rd (Opp G Hotel)",
+        "operators": [
+          "BE (route 409, 404, 402, 434)"
+        ]
       }
     },
     {
@@ -1207,7 +1483,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (New Cemetary)"
+        "name": "Bohermore (New Cemetary)",
+        "operators": [
+          "BE (route 402, 405)"
+        ]
       }
     },
     {
@@ -1220,7 +1499,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (Connolly Terrace)"
+        "name": "Bohermore (Connolly Terrace)",
+        "operators": [
+          "BE (route 405, 402)"
+        ]
       }
     },
     {
@@ -1233,7 +1515,10 @@
         ]
       },
       "properties": {
-        "name": "Bohermore (Tonerys Bar)"
+        "name": "Bohermore (Tonerys Bar)",
+        "operators": [
+          "BE (route 402, 405)"
+        ]
       }
     },
     {
@@ -1246,7 +1531,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square East (Stop No 6)"
+        "name": "Eyre Square East (Stop No 6)",
+        "operators": [
+          "BE (route 402, 403, 407)"
+        ]
       }
     },
     {
@@ -1259,7 +1547,10 @@
         ]
       },
       "properties": {
-        "name": "Francis Street (Abbey Church)"
+        "name": "Francis Street (Abbey Church)",
+        "operators": [
+          "BE (route 407, 419, 424, 403, 402, 405, 404, 456)"
+        ]
       }
     },
     {
@@ -1272,7 +1563,10 @@
         ]
       },
       "properties": {
-        "name": "University Rd (Opp NUIG Main Gate)"
+        "name": "University Rd (Opp NUIG Main Gate)",
+        "operators": [
+          "BE (route 404, 405, 402, 403, 419, 434)"
+        ]
       }
     },
     {
@@ -1285,7 +1579,10 @@
         ]
       },
       "properties": {
-        "name": "Newcastle Rd (Opp University Hospital)"
+        "name": "Newcastle Rd (Opp University Hospital)",
+        "operators": [
+          "BE (route 434, 424, 403, 402, 64)"
+        ]
       }
     },
     {
@@ -1298,7 +1595,10 @@
         ]
       },
       "properties": {
-        "name": "Costello Rd (Opp HSE Clinic)"
+        "name": "Costello Rd (Opp HSE Clinic)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1311,7 +1611,10 @@
         ]
       },
       "properties": {
-        "name": "Costello Rd (McDara Rd Junction)"
+        "name": "Costello Rd (McDara Rd Junction)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -1324,7 +1627,10 @@
         ]
       },
       "properties": {
-        "name": "Colmcille Rd (Community Centre)"
+        "name": "Colmcille Rd (Community Centre)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1337,7 +1643,10 @@
         ]
       },
       "properties": {
-        "name": "Colmcille Rd (Opp Scoil Bride)"
+        "name": "Colmcille Rd (Opp Scoil Bride)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -1350,7 +1659,10 @@
         ]
       },
       "properties": {
-        "name": "Maunsells Rd (Opp Higgins DIY)"
+        "name": "Maunsells Rd (Opp Higgins DIY)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1363,7 +1675,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill (St Annes)"
+        "name": "Taylors Hill (St Annes)",
+        "operators": [
+          "BE (route 403, 402, 424)"
+        ]
       }
     },
     {
@@ -1376,7 +1691,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill (Dominican Convent)"
+        "name": "Taylors Hill (Dominican Convent)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1389,7 +1707,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill (Ardmore)"
+        "name": "Taylors Hill (Ardmore)",
+        "operators": [
+          "BE (route 403, 402)"
+        ]
       }
     },
     {
@@ -1402,7 +1723,10 @@
         ]
       },
       "properties": {
-        "name": "Taylors Hill (Colaiste Einde)"
+        "name": "Taylors Hill (Colaiste Einde)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1415,7 +1739,10 @@
         ]
       },
       "properties": {
-        "name": "Kingston Rd (Opp Manor Drive)"
+        "name": "Kingston Rd (Opp Manor Drive)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1428,7 +1755,10 @@
         ]
       },
       "properties": {
-        "name": "Kingston Rd (Opp Kingston Gardens)"
+        "name": "Kingston Rd (Opp Kingston Gardens)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1441,7 +1771,10 @@
         ]
       },
       "properties": {
-        "name": "Shangort Rd (Joyces Supermarket)"
+        "name": "Shangort Rd (Joyces Supermarket)",
+        "operators": [
+          "BE (route 402)"
+        ]
       }
     },
     {
@@ -1454,7 +1787,10 @@
         ]
       },
       "properties": {
-        "name": "Maunsells Rd (Opp Maunsells Rd Jct)"
+        "name": "Maunsells Rd (Opp Maunsells Rd Jct)",
+        "operators": [
+          "BE (route 402, 403)"
+        ]
       }
     },
     {
@@ -1467,7 +1803,10 @@
         ]
       },
       "properties": {
-        "name": "University Rd (Opp Cathedral)"
+        "name": "University Rd (Opp Cathedral)",
+        "operators": [
+          "BE (route 403, 402, 405, 404)"
+        ]
       }
     },
     {
@@ -1480,7 +1819,10 @@
         ]
       },
       "properties": {
-        "name": "Prospect Hill (Andys Haircare)"
+        "name": "Prospect Hill (Andys Haircare)",
+        "operators": [
+          "BE (route 405, 402)"
+        ]
       }
     },
     {
@@ -1493,7 +1835,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square East (Stop No 7)"
+        "name": "Eyre Square East (Stop No 7)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1506,7 +1851,10 @@
         ]
       },
       "properties": {
-        "name": "Br Brendain Ui Either (Go Bus Office)"
+        "name": "Br Brendain Ui Either (Go Bus Office)",
+        "operators": [
+          "BE (route 403, 404, 409, 425A)"
+        ]
       }
     },
     {
@@ -1519,7 +1867,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (City Hall)"
+        "name": "College Rd Galway (City Hall)",
+        "operators": [
+          "BE (route 409, 404, 403, 425A)"
+        ]
       }
     },
     {
@@ -1532,7 +1883,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (Sportsground)"
+        "name": "College Rd Galway (Sportsground)",
+        "operators": [
+          "BE (route 425A, 403, 404, 409)"
+        ]
       }
     },
     {
@@ -1545,7 +1899,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (Loyola Park)"
+        "name": "College Rd Galway (Loyola Park)",
+        "operators": [
+          "BE (route 409, 404, 403, 425A)"
+        ]
       }
     },
     {
@@ -1558,7 +1915,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Wellpark Est)"
+        "name": "Monivea Rd (Opp Wellpark Est)",
+        "operators": [
+          "BE (route 409, 403, 425A)"
+        ]
       }
     },
     {
@@ -1571,7 +1931,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Crown Plaza)"
+        "name": "Monivea Rd (Crown Plaza)",
+        "operators": [
+          "BE (route 425A, 403, 409)"
+        ]
       }
     },
     {
@@ -1584,7 +1947,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Monivea Park)"
+        "name": "Monivea Rd (Opp Monivea Park)",
+        "operators": [
+          "BE (route 409, 403, 425A)"
+        ]
       }
     },
     {
@@ -1597,7 +1963,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Rd (Opp Shopping Centre)"
+        "name": "Ballybane Rd (Opp Shopping Centre)",
+        "operators": [
+          "BE (route 403, 405)"
+        ]
       }
     },
     {
@@ -1610,7 +1979,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Rd (Opp Ard Aobhinn Drive)"
+        "name": "Ballybane Rd (Opp Ard Aobhinn Drive)",
+        "operators": [
+          "BE (route 405, 403)"
+        ]
       }
     },
     {
@@ -1623,7 +1995,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Opp John Paul Centre)"
+        "name": "Castlepark Rd (Opp John Paul Centre)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1636,7 +2011,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Opp Community Centre)"
+        "name": "Castlepark Rd (Opp Community Centre)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1649,7 +2027,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Opp Gortcam)"
+        "name": "Castlepark Rd (Opp Gortcam)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1662,7 +2043,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Opp Glenavon Drive)"
+        "name": "Castlepark Rd (Opp Glenavon Drive)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1675,7 +2059,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Cottages)"
+        "name": "Monivea Rd (Opp Cottages)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1688,7 +2075,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Ballybrit Heights)"
+        "name": "Monivea Rd (Opp Ballybrit Heights)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1701,7 +2091,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Western Motors Entr)"
+        "name": "Parkmore Rd (Western Motors Entr)",
+        "operators": [
+          "BE (route 403, 409)"
+        ]
       }
     },
     {
@@ -1714,7 +2107,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Racecourse Side Gate)"
+        "name": "Parkmore Rd (Racecourse Side Gate)",
+        "operators": [
+          "BE (route 409, 417, 403)"
+        ]
       }
     },
     {
@@ -1727,7 +2123,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Opp Racecourse Side Gate)"
+        "name": "Parkmore Rd (Opp Racecourse Side Gate)",
+        "operators": [
+          "BE (route 403, 417, 409)"
+        ]
       }
     },
     {
@@ -1740,7 +2139,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Opp Western Motors Entr)"
+        "name": "Parkmore Rd (Opp Western Motors Entr)",
+        "operators": [
+          "BE (route 409, 403)"
+        ]
       }
     },
     {
@@ -1753,7 +2155,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Clayton Hotel)"
+        "name": "Monivea Rd (Opp Clayton Hotel)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1766,7 +2171,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Paddocks)"
+        "name": "Monivea Rd (Paddocks)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1779,7 +2187,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Ballybrit Heights)"
+        "name": "Monivea Rd (Ballybrit Heights)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1792,7 +2203,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Cottages)"
+        "name": "Monivea Rd (Cottages)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1805,7 +2219,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Glenavon Drive)"
+        "name": "Castlepark Rd (Glenavon Drive)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1818,7 +2235,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Gortcam)"
+        "name": "Castlepark Rd (Gortcam)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1831,7 +2251,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Sliabh Rua)"
+        "name": "Castlepark Rd (Sliabh Rua)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1844,7 +2267,10 @@
         ]
       },
       "properties": {
-        "name": "Castlepark Rd (Community Centre)"
+        "name": "Castlepark Rd (Community Centre)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1857,7 +2283,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Rd (John Paul Centre)"
+        "name": "Ballybane Rd (John Paul Centre)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1870,7 +2299,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Rd (St James Rd)"
+        "name": "Ballybane Rd (St James Rd)",
+        "operators": [
+          "BE (route 403, 405)"
+        ]
       }
     },
     {
@@ -1883,7 +2315,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybane Rd (Shopping Centre)"
+        "name": "Ballybane Rd (Shopping Centre)",
+        "operators": [
+          "BE (route 405, 403)"
+        ]
       }
     },
     {
@@ -1896,7 +2331,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Monivea Park)"
+        "name": "Monivea Rd (Monivea Park)",
+        "operators": [
+          "BE (route 403, 425A)"
+        ]
       }
     },
     {
@@ -1909,7 +2347,10 @@
         ]
       },
       "properties": {
-        "name": "McDonagh Ave (Old Mervue)"
+        "name": "McDonagh Ave (Old Mervue)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -1922,7 +2363,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Opp Crown Plaza)"
+        "name": "Monivea Rd (Opp Crown Plaza)",
+        "operators": [
+          "BE (route 403, 425A)"
+        ]
       }
     },
     {
@@ -1935,7 +2379,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (GMIT Cluam Mhuire)"
+        "name": "Monivea Rd (GMIT Cluam Mhuire)",
+        "operators": [
+          "BE (route 425A, 403)"
+        ]
       }
     },
     {
@@ -1948,7 +2395,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Wellpark Retail Est)"
+        "name": "Monivea Rd (Wellpark Retail Est)",
+        "operators": [
+          "BE (route 403, 425A)"
+        ]
       }
     },
     {
@@ -1961,7 +2411,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (Opp Loyola Pk)"
+        "name": "College Rd Galway (Opp Loyola Pk)",
+        "operators": [
+          "BE (route 425A, 403, 404, 409)"
+        ]
       }
     },
     {
@@ -1974,7 +2427,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (Opp Sportsground)"
+        "name": "College Rd Galway (Opp Sportsground)",
+        "operators": [
+          "BE (route 409, 404, 403, 425A)"
+        ]
       }
     },
     {
@@ -1987,7 +2443,10 @@
         ]
       },
       "properties": {
-        "name": "College Rd Galway (Opp City Hall)"
+        "name": "College Rd Galway (Opp City Hall)",
+        "operators": [
+          "BE (route 425A, 403, 404, 409)"
+        ]
       }
     },
     {
@@ -2000,7 +2459,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Opp Woodquay)"
+        "name": "Headford Rd (Opp Woodquay)",
+        "operators": [
+          "BE (route 407, 424, 456)"
+        ]
       }
     },
     {
@@ -2013,7 +2475,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Galway Retail Park)"
+        "name": "Headford Rd (Galway Retail Park)",
+        "operators": [
+          "BE (route 456, 407)"
+        ]
       }
     },
     {
@@ -2026,7 +2491,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Opp Dunnes Stores)"
+        "name": "Headford Rd (Opp Dunnes Stores)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2039,7 +2507,10 @@
         ]
       },
       "properties": {
-        "name": "Coolough Rd (Opp Menlo Park Hotel)"
+        "name": "Coolough Rd (Opp Menlo Park Hotel)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2052,7 +2523,10 @@
         ]
       },
       "properties": {
-        "name": "Crestwood (Crestwood 48 to 62)"
+        "name": "Crestwood (Crestwood 48 to 62)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2065,7 +2539,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Heights (Ballinfoyle Rd)"
+        "name": "Tirellan Heights (Ballinfoyle Rd)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2078,7 +2555,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Hts (Tirellan Hts 344-385)"
+        "name": "Tirellan Hts (Tirellan Hts 344-385)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2091,7 +2571,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Heights (Headford Rd Jctn)"
+        "name": "Tirellan Heights (Headford Rd Jctn)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2104,7 +2587,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Church)"
+        "name": "Headford Rd (Church)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2117,7 +2603,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Sceilig Ard)"
+        "name": "Headford Rd (Sceilig Ard)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2130,7 +2619,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Op Baile Choiste)"
+        "name": "Bothair an Choiste (Op Baile Choiste)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2143,7 +2635,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Murphys Centra)"
+        "name": "Bothair an Choiste (Murphys Centra)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2156,7 +2651,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Cluain Riocard)"
+        "name": "Bothair an Choiste (Cluain Riocard)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2169,7 +2667,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Maigh Riocard)"
+        "name": "Bothair an Choiste (Maigh Riocard)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2182,7 +2683,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Lochan)"
+        "name": "Bothair an Choiste (Lochan)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2195,7 +2699,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Baile an Choiste 102"
+        "name": "Bothair an Choiste (Baile an Choiste 102",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2208,7 +2715,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Baile an Choiste 1 t"
+        "name": "Bothair an Choiste (Baile an Choiste 1 t",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2221,7 +2731,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Ballinfoyle Mews)"
+        "name": "Headford Rd (Ballinfoyle Mews)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2234,7 +2747,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Brookedale)"
+        "name": "Headford Rd (Brookedale)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2247,7 +2763,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Dunnes Stores)"
+        "name": "Headford Rd (Dunnes Stores)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2260,7 +2779,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Galway Shopping Centre)"
+        "name": "Headford Rd (Galway Shopping Centre)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2273,7 +2795,10 @@
         ]
       },
       "properties": {
-        "name": "Headford Rd (Woodquay)"
+        "name": "Headford Rd (Woodquay)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -2286,7 +2811,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square North (Stop No 2)"
+        "name": "Eyre Square North (Stop No 2)",
+        "operators": [
+          "BE (route 407, 419, 404, 405)"
+        ]
       }
     },
     {
@@ -2299,7 +2827,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Glenina Heights)"
+        "name": "Dublin Rd (Glenina Heights)",
+        "operators": [
+          "BE (route 404, 409)"
+        ]
       }
     },
     {
@@ -2312,7 +2843,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Dawn Dairies)"
+        "name": "Dublin Rd (Opp Dawn Dairies)",
+        "operators": [
+          "BE (route 409, 404)"
+        ]
       }
     },
     {
@@ -2325,7 +2859,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Galway Crystal Jctn)"
+        "name": "Dublin Rd (Opp Galway Crystal Jctn)",
+        "operators": [
+          "BE (route 404, 409)"
+        ]
       }
     },
     {
@@ -2338,7 +2875,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Coast Rd Jctn)"
+        "name": "Dublin Rd (Opp Coast Rd Jctn)",
+        "operators": [
+          "BE (route 409, 404)"
+        ]
       }
     },
     {
@@ -2351,7 +2891,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Castlegar Complex)"
+        "name": "Dublin Rd (Opp Castlegar Complex)",
+        "operators": [
+          "BE (route 404, 409)"
+        ]
       }
     },
     {
@@ -2364,7 +2907,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (An Fiodan)"
+        "name": "Doughiska Rd (An Fiodan)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2377,7 +2923,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Amber Hse Hotel)"
+        "name": "Doughiska Rd (Amber Hse Hotel)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2390,7 +2939,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Merlin Woods Prm Sch)"
+        "name": "Doughiska Rd (Merlin Woods Prm Sch)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2403,7 +2955,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Nestors Centra)"
+        "name": "Doughiska Rd (Nestors Centra)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2416,7 +2971,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (NCT Entrance)"
+        "name": "Doughiska Rd (NCT Entrance)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2429,7 +2987,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Op Brierhill Shop Cen)"
+        "name": "Doughiska Rd (Op Brierhill Shop Cen)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2442,7 +3003,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Brierhill Shop Centre)"
+        "name": "Doughiska Rd (Brierhill Shop Centre)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2455,7 +3019,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Opp Nestors Centra)"
+        "name": "Doughiska Rd (Opp Nestors Centra)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2468,7 +3035,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Opp Primary School)"
+        "name": "Doughiska Rd (Opp Primary School)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2481,7 +3051,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Opp An Fiodan)"
+        "name": "Doughiska Rd (Opp An Fiodan)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2494,7 +3067,10 @@
         ]
       },
       "properties": {
-        "name": "Doughiska Rd (Castan)"
+        "name": "Doughiska Rd (Castan)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2507,7 +3083,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Castlegar Complex)"
+        "name": "Dublin Rd (Castlegar Complex)",
+        "operators": [
+          "BE (route 409, 404)"
+        ]
       }
     },
     {
@@ -2520,7 +3099,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Kingsvalley Hotel)"
+        "name": "Dublin Rd (Kingsvalley Hotel)",
+        "operators": [
+          "BE (route 404, 409)"
+        ]
       }
     },
     {
@@ -2533,7 +3115,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Dawn Dairies)"
+        "name": "Dublin Rd (Dawn Dairies)",
+        "operators": [
+          "BE (route 409, 404)"
+        ]
       }
     },
     {
@@ -2546,7 +3131,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Opp Glenina Hgts)"
+        "name": "Dublin Rd (Opp Glenina Hgts)",
+        "operators": [
+          "BE (route 404, 409)"
+        ]
       }
     },
     {
@@ -2559,7 +3147,10 @@
         ]
       },
       "properties": {
-        "name": "Forster St (Morgans Hotel)"
+        "name": "Forster St (Morgans Hotel)",
+        "operators": [
+          "BE (route 409, 403)"
+        ]
       }
     },
     {
@@ -2572,7 +3163,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square East (Stop No 5)"
+        "name": "Eyre Square East (Stop No 5)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2585,7 +3179,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (G & L Stores)"
+        "name": "Lower Newcastle (G & L Stores)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2598,7 +3195,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (Moyola Park Entr)"
+        "name": "Lower Newcastle (Moyola Park Entr)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2611,7 +3211,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (Greenfields Entr)"
+        "name": "Lower Newcastle (Greenfields Entr)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2624,7 +3227,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Clifton Pk)"
+        "name": "Thomas Hynes Rd (Clifton Pk)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2637,7 +3243,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Fairlands Park)"
+        "name": "Thomas Hynes Rd (Fairlands Park)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2650,7 +3259,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (St Josephs School)"
+        "name": "Thomas Hynes Rd (St Josephs School)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2663,7 +3275,10 @@
         ]
       },
       "properties": {
-        "name": "Siobhain McKenna Rd (Corrib Pk)"
+        "name": "Siobhain McKenna Rd (Corrib Pk)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2676,7 +3291,10 @@
         ]
       },
       "properties": {
-        "name": "Siobhain McKenna Rd (Camillaun Pk)"
+        "name": "Siobhain McKenna Rd (Camillaun Pk)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2689,7 +3307,10 @@
         ]
       },
       "properties": {
-        "name": "Merchants Rd (Kinlay House)"
+        "name": "Merchants Rd (Kinlay House)",
+        "operators": [
+          "BE (route 424, 401)"
+        ]
       }
     },
     {
@@ -2702,7 +3323,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Ardilaun Road)"
+        "name": "Thomas Hynes Rd (Ardilaun Road)",
+        "operators": [
+          "BE (route 404)"
+        ]
       }
     },
     {
@@ -2715,7 +3339,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Opp Ardilaun Rd)"
+        "name": "Thomas Hynes Rd (Opp Ardilaun Rd)",
+        "operators": [
+          "BE (route 404)"
+        ]
       }
     },
     {
@@ -2728,7 +3355,10 @@
         ]
       },
       "properties": {
-        "name": "Siobhain McKenna Rd (Westside Pitches)"
+        "name": "Siobhain McKenna Rd (Westside Pitches)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2741,7 +3371,10 @@
         ]
       },
       "properties": {
-        "name": "Circular Rd (Opp Currach Bui)"
+        "name": "Circular Rd (Opp Currach Bui)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2754,7 +3387,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Op Rahoon Rd Jctn)"
+        "name": "Seamus Quirke Rd (Op Rahoon Rd Jctn)",
+        "operators": [
+          "BE (route 404)"
+        ]
       }
     },
     {
@@ -2767,7 +3403,10 @@
         ]
       },
       "properties": {
-        "name": "Westside (Shopping Centre)"
+        "name": "Westside (Shopping Centre)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2780,7 +3419,10 @@
         ]
       },
       "properties": {
-        "name": "Siobhain McKenna Rd (Gaelcarrig Pk)"
+        "name": "Siobhain McKenna Rd (Gaelcarrig Pk)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2793,7 +3435,10 @@
         ]
       },
       "properties": {
-        "name": "Siobhain McKenna Rd (Laurel Park)"
+        "name": "Siobhain McKenna Rd (Laurel Park)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2806,7 +3451,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Opp St Josephs Sch)"
+        "name": "Thomas Hynes Rd (Opp St Josephs Sch)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2819,7 +3467,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Hazel Park)"
+        "name": "Thomas Hynes Rd (Hazel Park)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2832,7 +3483,10 @@
         ]
       },
       "properties": {
-        "name": "Thomas Hynes Rd (Tudor Lawns)"
+        "name": "Thomas Hynes Rd (Tudor Lawns)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2845,7 +3499,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (Corrib Village)"
+        "name": "Lower Newcastle (Corrib Village)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2858,7 +3515,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (AIB Bank)"
+        "name": "Lower Newcastle (AIB Bank)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2871,7 +3531,10 @@
         ]
       },
       "properties": {
-        "name": "Eyre Square East (Stop No 8)"
+        "name": "Eyre Square East (Stop No 8)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -2884,7 +3547,10 @@
         ]
       },
       "properties": {
-        "name": "Newcastle Rd Uppr (Opp NUIG West Gate)"
+        "name": "Newcastle Rd Uppr (Opp NUIG West Gate)",
+        "operators": [
+          "BE (route 419, 404, 405)"
+        ]
       }
     },
     {
@@ -2897,7 +3563,10 @@
         ]
       },
       "properties": {
-        "name": "Lwr Newcastle (Opp St Francis Home)"
+        "name": "Lwr Newcastle (Opp St Francis Home)",
+        "operators": [
+          "BE (route 405, 404)"
+        ]
       }
     },
     {
@@ -2910,7 +3579,10 @@
         ]
       },
       "properties": {
-        "name": "Lower Newcastle (St Francis Home)"
+        "name": "Lower Newcastle (St Francis Home)",
+        "operators": [
+          "BE (route 404, 405)"
+        ]
       }
     },
     {
@@ -2923,7 +3595,10 @@
         ]
       },
       "properties": {
-        "name": "Newcastle Rd (NUIG West Gate)"
+        "name": "Newcastle Rd (NUIG West Gate)",
+        "operators": [
+          "BE (route 405, 404, 419)"
+        ]
       }
     },
     {
@@ -2936,7 +3611,10 @@
         ]
       },
       "properties": {
-        "name": "Gort na Bro (B&Q Retail Park)"
+        "name": "Gort na Bro (B&Q Retail Park)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -2949,7 +3627,10 @@
         ]
       },
       "properties": {
-        "name": "Garrai de Brun (Op Garrai de Brun Ent)"
+        "name": "Garrai de Brun (Op Garrai de Brun Ent)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -2962,7 +3643,10 @@
         ]
       },
       "properties": {
-        "name": "Bishop O Donnell Rd (Opp Droim Chaoin)"
+        "name": "Bishop O Donnell Rd (Opp Droim Chaoin)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -2975,7 +3659,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Rahoon Rd Junc)"
+        "name": "Seamus Quirke Rd (Rahoon Rd Junc)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -2988,7 +3675,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Circular Rd Junc)"
+        "name": "Seamus Quirke Rd (Circular Rd Junc)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3001,7 +3691,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Westside Shopp Cent)"
+        "name": "Seamus Quirke Rd (Westside Shopp Cent)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3014,7 +3707,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Corrib Park)"
+        "name": "Seamus Quirke Rd (Corrib Park)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3027,7 +3723,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Snipe Lawn)"
+        "name": "Seamus Quirke Rd (Snipe Lawn)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3040,7 +3739,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Riverside Estate)"
+        "name": "Tuam Rd (Riverside Estate)",
+        "operators": [
+          "BE (route 405, 417, 425)"
+        ]
       }
     },
     {
@@ -3053,7 +3755,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Opp Mervue Ind Est)"
+        "name": "Tuam Rd (Opp Mervue Ind Est)",
+        "operators": [
+          "BE (route 425, 405)"
+        ]
       }
     },
     {
@@ -3066,7 +3771,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Trappers Inn)"
+        "name": "Tuam Rd (Trappers Inn)",
+        "operators": [
+          "BE (route 405, 425)"
+        ]
       }
     },
     {
@@ -3079,7 +3787,10 @@
         ]
       },
       "properties": {
-        "name": "Connolly Ave (Pearse Avenue)"
+        "name": "Connolly Ave (Pearse Avenue)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3092,7 +3803,10 @@
         ]
       },
       "properties": {
-        "name": "Connolly Ave (Opp Fahys Field)"
+        "name": "Connolly Ave (Opp Fahys Field)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3105,7 +3819,10 @@
         ]
       },
       "properties": {
-        "name": "St James Rd (Opp Bayview Hgts)"
+        "name": "St James Rd (Opp Bayview Hgts)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3118,7 +3835,10 @@
         ]
       },
       "properties": {
-        "name": "St James Rd (HSE Clinic)"
+        "name": "St James Rd (HSE Clinic)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3131,7 +3851,10 @@
         ]
       },
       "properties": {
-        "name": "Connolly Ave (Walter Macken Flats)"
+        "name": "Connolly Ave (Walter Macken Flats)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3144,7 +3867,10 @@
         ]
       },
       "properties": {
-        "name": "Connolly Ave (Fahys Field)"
+        "name": "Connolly Ave (Fahys Field)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3157,7 +3883,10 @@
         ]
       },
       "properties": {
-        "name": "Connolly Ave (Opp Pearse Ave)"
+        "name": "Connolly Ave (Opp Pearse Ave)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3170,7 +3899,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Opp Trappers Inn)"
+        "name": "Tuam Rd (Opp Trappers Inn)",
+        "operators": [
+          "BE (route 405, 425)"
+        ]
       }
     },
     {
@@ -3183,7 +3915,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Mervue Industrial Est)"
+        "name": "Tuam Rd (Mervue Industrial Est)",
+        "operators": [
+          "BE (route 425, 405)"
+        ]
       }
     },
     {
@@ -3196,7 +3931,10 @@
         ]
       },
       "properties": {
-        "name": "Tuam Rd (Opp Riverside Est)"
+        "name": "Tuam Rd (Opp Riverside Est)",
+        "operators": [
+          "BE (route 405, 425, 417)"
+        ]
       }
     },
     {
@@ -3209,7 +3947,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Opp Snipe Lawn)"
+        "name": "Seamus Quirke Rd (Opp Snipe Lawn)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3222,7 +3963,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Arch Motors)"
+        "name": "Seamus Quirke Rd (Arch Motors)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3235,7 +3979,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (Westside Retail Pk)"
+        "name": "Seamus Quirke Rd (Westside Retail Pk)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3248,7 +3995,10 @@
         ]
       },
       "properties": {
-        "name": "Seamus Quirke Rd (ESB Sub Station)"
+        "name": "Seamus Quirke Rd (ESB Sub Station)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3261,7 +4011,10 @@
         ]
       },
       "properties": {
-        "name": "Bishop O Donn Rd (Op Rahoon Rd Jnc)"
+        "name": "Bishop O Donn Rd (Op Rahoon Rd Jnc)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3274,7 +4027,10 @@
         ]
       },
       "properties": {
-        "name": "Bishop O Donnell Rd (Droim Chaoin)"
+        "name": "Bishop O Donnell Rd (Droim Chaoin)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3287,7 +4043,10 @@
         ]
       },
       "properties": {
-        "name": "Garrai De Brun (Garrai De Brun Ent)"
+        "name": "Garrai De Brun (Garrai De Brun Ent)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3300,7 +4059,10 @@
         ]
       },
       "properties": {
-        "name": "Oranmore Village (Op Calacanctius Col)"
+        "name": "Oranmore Village (Op Calacanctius Col)",
+        "operators": [
+          "BE (route 404)"
+        ]
       }
     },
     {
@@ -3313,7 +4075,10 @@
         ]
       },
       "properties": {
-        "name": "Bothair an Choiste (Opp Maigh Riocard)"
+        "name": "Bothair an Choiste (Opp Maigh Riocard)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3326,7 +4091,10 @@
         ]
       },
       "properties": {
-        "name": "St James Road (Mervue Church)"
+        "name": "St James Road (Mervue Church)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3339,7 +4107,10 @@
         ]
       },
       "properties": {
-        "name": "St James Rd (Bayview Heights)"
+        "name": "St James Rd (Bayview Heights)",
+        "operators": [
+          "BE (route 405)"
+        ]
       }
     },
     {
@@ -3352,7 +4123,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Heights (St Francis NS)"
+        "name": "Tirellan Heights (St Francis NS)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3365,7 +4139,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Heights Opp (344 to 385)"
+        "name": "Tirellan Heights Opp (344 to 385)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3378,7 +4155,10 @@
         ]
       },
       "properties": {
-        "name": "Tirellan Heights (Ballinfoyle Road)"
+        "name": "Tirellan Heights (Ballinfoyle Road)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3391,7 +4171,10 @@
         ]
       },
       "properties": {
-        "name": "Crestwood (Crestwood 47 to 33)"
+        "name": "Crestwood (Crestwood 47 to 33)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3404,7 +4187,10 @@
         ]
       },
       "properties": {
-        "name": "Coolough Rd (Menlo Park Apartments)"
+        "name": "Coolough Rd (Menlo Park Apartments)",
+        "operators": [
+          "BE (route 407)"
+        ]
       }
     },
     {
@@ -3417,7 +4203,10 @@
         ]
       },
       "properties": {
-        "name": "Loughgeorge (Opp Garda Station)"
+        "name": "Loughgeorge (Opp Garda Station)",
+        "operators": [
+          "BE (route 417, 425, 429, 456)"
+        ]
       }
     },
     {
@@ -3430,7 +4219,10 @@
         ]
       },
       "properties": {
-        "name": "Claregalway (Opp Cois Chlair)"
+        "name": "Claregalway (Opp Cois Chlair)",
+        "operators": [
+          "BE (route 456, 52, 65, 64, 417, 425, 429)"
+        ]
       }
     },
     {
@@ -3443,7 +4235,10 @@
         ]
       },
       "properties": {
-        "name": "Cregboy House (Westbound)"
+        "name": "Cregboy House (Westbound)",
+        "operators": [
+          "BE (route 456, 425, 417)"
+        ]
       }
     },
     {
@@ -3456,7 +4251,10 @@
         ]
       },
       "properties": {
-        "name": "Castlegar (McHughs Pub)"
+        "name": "Castlegar (McHughs Pub)",
+        "operators": [
+          "BE (route 456, 425, 417)"
+        ]
       }
     },
     {
@@ -3469,7 +4267,10 @@
         ]
       },
       "properties": {
-        "name": "Donnellans Cross (Westbound)"
+        "name": "Donnellans Cross (Westbound)",
+        "operators": [
+          "BE (route 417, 425A)"
+        ]
       }
     },
     {
@@ -3482,7 +4283,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (Jctn Lios Caisil)"
+        "name": "Monivea Rd (Jctn Lios Caisil)",
+        "operators": [
+          "BE (route 403)"
+        ]
       }
     },
     {
@@ -3495,7 +4299,10 @@
         ]
       },
       "properties": {
-        "name": "Bushy Park (Church)"
+        "name": "Bushy Park (Church)",
+        "operators": [
+          "BE (route 419)"
+        ]
       }
     },
     {
@@ -3508,7 +4315,10 @@
         ]
       },
       "properties": {
-        "name": "Cloniffe Cross (Westbound)"
+        "name": "Cloniffe Cross (Westbound)",
+        "operators": [
+          "BE (route 419)"
+        ]
       }
     },
     {
@@ -3521,7 +4331,10 @@
         ]
       },
       "properties": {
-        "name": "Carnmore Cross (Westbound)"
+        "name": "Carnmore Cross (Westbound)",
+        "operators": [
+          "BE (route 425A)"
+        ]
       }
     },
     {
@@ -3534,7 +4347,10 @@
         ]
       },
       "properties": {
-        "name": "Carnmore Cross (Eastbound)"
+        "name": "Carnmore Cross (Eastbound)",
+        "operators": [
+          "BE (route 425A)"
+        ]
       }
     },
     {
@@ -3547,7 +4363,10 @@
         ]
       },
       "properties": {
-        "name": "Ballybrit Ind Est (HP)"
+        "name": "Ballybrit Ind Est (HP)",
+        "operators": [
+          "BE (route 409)"
+        ]
       }
     },
     {
@@ -3560,7 +4379,10 @@
         ]
       },
       "properties": {
-        "name": "Cregboy House (Eastbound)"
+        "name": "Cregboy House (Eastbound)",
+        "operators": [
+          "BE (route 417, 425, 456)"
+        ]
       }
     },
     {
@@ -3573,7 +4395,10 @@
         ]
       },
       "properties": {
-        "name": "Cloniffe Cross (Eastbound)"
+        "name": "Cloniffe Cross (Eastbound)",
+        "operators": [
+          "BE (route 419)"
+        ]
       }
     },
     {
@@ -3586,7 +4411,10 @@
         ]
       },
       "properties": {
-        "name": "Bushy Park (Opp Church)"
+        "name": "Bushy Park (Opp Church)",
+        "operators": [
+          "BE (route 419)"
+        ]
       }
     },
     {
@@ -3599,7 +4427,10 @@
         ]
       },
       "properties": {
-        "name": "Monivea Rd (VEC)"
+        "name": "Monivea Rd (VEC)",
+        "operators": [
+          "BE (route 409, 403, 425A)"
+        ]
       }
     },
     {
@@ -3612,7 +4443,10 @@
         ]
       },
       "properties": {
-        "name": "McDonagh Ave (Old Mervue Shops)"
+        "name": "McDonagh Ave (Old Mervue Shops)",
+        "operators": [
+          "BE (route 403, 409)"
+        ]
       }
     },
     {
@@ -3625,7 +4459,10 @@
         ]
       },
       "properties": {
-        "name": "Lime Kiln (Clada Group)"
+        "name": "Lime Kiln (Clada Group)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -3638,7 +4475,10 @@
         ]
       },
       "properties": {
-        "name": "Loughgeorge (Garda Station)"
+        "name": "Loughgeorge (Garda Station)",
+        "operators": [
+          "BE (route 456, 417, 425, 429)"
+        ]
       }
     },
     {
@@ -3651,7 +4491,10 @@
         ]
       },
       "properties": {
-        "name": "Castlegar (Opp McHughs Pub)"
+        "name": "Castlegar (Opp McHughs Pub)",
+        "operators": [
+          "BE (route 425, 417, 456)"
+        ]
       }
     },
     {
@@ -3664,7 +4507,10 @@
         ]
       },
       "properties": {
-        "name": "Rosshill Cross (Coast Rd)"
+        "name": "Rosshill Cross (Coast Rd)",
+        "operators": [
+          "BE (route 434)"
+        ]
       }
     },
     {
@@ -3677,7 +4523,10 @@
         ]
       },
       "properties": {
-        "name": "Rosshill Cross (Westbound)"
+        "name": "Rosshill Cross (Westbound)",
+        "operators": [
+          "BE (route 434)"
+        ]
       }
     },
     {
@@ -3690,7 +4539,10 @@
         ]
       },
       "properties": {
-        "name": "Castlegar (Church)"
+        "name": "Castlegar (Church)",
+        "operators": [
+          "BE (route 425, 456)"
+        ]
       }
     },
     {
@@ -3703,7 +4555,10 @@
         ]
       },
       "properties": {
-        "name": "Castlegar (Crossroad)"
+        "name": "Castlegar (Crossroad)",
+        "operators": [
+          "BE (route 456, 425)"
+        ]
       }
     },
     {
@@ -3716,7 +4571,10 @@
         ]
       },
       "properties": {
-        "name": "Claregalway (Cois Chlair Arches Hotel)"
+        "name": "Claregalway (Cois Chlair Arches Hotel)",
+        "operators": [
+          "BE (route 456, 52, 65, 64, 425, 417, 429)"
+        ]
       }
     },
     {
@@ -3729,7 +4587,10 @@
         ]
       },
       "properties": {
-        "name": "Clonboo (Opp Cunniffes)"
+        "name": "Clonboo (Opp Cunniffes)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -3742,7 +4603,10 @@
         ]
       },
       "properties": {
-        "name": "Curramore Bridge (Southbound)"
+        "name": "Curramore Bridge (Southbound)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -3755,7 +4619,10 @@
         ]
       },
       "properties": {
-        "name": "Donnellans Cross (Eastbound)"
+        "name": "Donnellans Cross (Eastbound)",
+        "operators": [
+          "BE (route 417, 425A)"
+        ]
       }
     },
     {
@@ -3768,7 +4635,10 @@
         ]
       },
       "properties": {
-        "name": "Galway (Bus Station)"
+        "name": "Galway (Bus Station)",
+        "operators": [
+          "BE (route X20, 52, 51, 350, 70, 65, 64, 456, 434, 425A, 429, 20, 419, 425, 417, 424, X51)"
+        ]
       }
     },
     {
@@ -3781,7 +4651,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Parkmore Ind Est)"
+        "name": "Parkmore Rd (Parkmore Ind Est)",
+        "operators": [
+          "BE (route 409, 403)"
+        ]
       }
     },
     {
@@ -3794,7 +4667,10 @@
         ]
       },
       "properties": {
-        "name": "Oranmore (Oran Town Centre)"
+        "name": "Oranmore (Oran Town Centre)",
+        "operators": [
+          "BE (route 70, 51, 350, X20, 20, 434)"
+        ]
       }
     },
     {
@@ -3807,7 +4683,10 @@
         ]
       },
       "properties": {
-        "name": "Oranmore (Opp Oran Town Centre)"
+        "name": "Oranmore (Opp Oran Town Centre)",
+        "operators": [
+          "BE (route 350, 51, X20, 434, 20, 404)"
+        ]
       }
     },
     {
@@ -3820,7 +4699,10 @@
         ]
       },
       "properties": {
-        "name": "Ballindooley (Stores)"
+        "name": "Ballindooley (Stores)",
+        "operators": [
+          "BE (route 456)"
+        ]
       }
     },
     {
@@ -3833,7 +4715,10 @@
         ]
       },
       "properties": {
-        "name": "Parkmore Rd (Roundabout)"
+        "name": "Parkmore Rd (Roundabout)",
+        "operators": [
+          "BE (route 409, 403)"
+        ]
       }
     },
     {
@@ -3846,7 +4731,10 @@
         ]
       },
       "properties": {
-        "name": "Dublin Rd (Galway Clinic)"
+        "name": "Dublin Rd (Galway Clinic)",
+        "operators": [
+          "BE (route 404)"
+        ]
       }
     },
     {
@@ -3859,7 +4747,10 @@
         ]
       },
       "properties": {
-        "name": "Céannt Station"
+        "name": "Céannt Station",
+        "operators": [
+          "ir (route Intercity)"
+        ]
       }
     },
     {
@@ -3872,7 +4763,10 @@
         ]
       },
       "properties": {
-        "name": ""
+        "name": "",
+        "operators": [
+          "ir (route Commuter)"
+        ]
       }
     }
   ]
