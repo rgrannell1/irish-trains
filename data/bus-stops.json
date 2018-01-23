@@ -1,1001 +1,7127 @@
-[ { id: '346301',
-    displayId: '346301',
-    name: 
-     { short: 'Maree (School)',
-       shortLocalised: '',
-       full: 'Maree (School)',
-       fullLocalised: '' },
-    location: { longitude: -8.949908889, latitude: 53.23196083 },
-    updatedAt: '08/01/2018 09:29:20',
-    operators: [ [Object] ] },
-  { id: '346311',
-    displayId: '346311',
-    name: 
-     { short: 'Maree (Costcutter)',
-       shortLocalised: '',
-       full: 'Maree (Costcutter)',
-       fullLocalised: '' },
-    location: { longitude: -8.949975, latitude: 53.23175056 },
-    updatedAt: '08/01/2018 09:29:20',
-    operators: [ [Object] ] },
-  { id: '520321',
-    displayId: '520321',
-    name: 
-     { short: 'Ballybrit',
-       shortLocalised: 'Baile an Bhriotaigh',
-       full: 'Monivea Rd (Clayton Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -8.988889167, latitude: 53.29107389 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '520351',
-    displayId: '520351',
-    name: 
-     { short: 'Lime Kiln',
-       shortLocalised: 'An Tiníl',
-       full: 'Lime Kiln (Opp Clada Group)',
-       fullLocalised: '' },
-    location: { longitude: -9.034650556, latitude: 53.30169583 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '520361',
-    displayId: '520361',
-    name: 
-     { short: 'Ballindooley Cross',
-       shortLocalised: '',
-       full: 'Ballindooley Cross (Northbound)',
-       fullLocalised: '' },
-    location: { longitude: -9.023833889, latitude: 53.31292167 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '520371',
-    displayId: '520371',
-    name: 
-     { short: 'Curramore Bridge',
-       shortLocalised: 'Dr. Churraigh Mhóir',
-       full: 'Curramore Bridge (Northbound)',
-       fullLocalised: '' },
-    location: { longitude: -9.019348611, latitude: 53.34219694 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '520381',
-    displayId: '520381',
-    name: 
-     { short: 'Clonboo',
-       shortLocalised: 'Cluain Bú',
-       full: 'Clonboo (Cunniffes Bar)',
-       fullLocalised: '' },
-    location: { longitude: -9.01635, latitude: 53.37406167 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '521341',
-    displayId: '521341',
-    name: 
-     { short: 'Ballybane Ind Est (',
-       shortLocalised: '',
-       full: 'Ballybane Ind Est (Entrance)',
-       fullLocalised: '' },
-    location: { longitude: -9.012691944, latitude: 53.28953861 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522011',
-    displayId: '522011',
-    name: 
-     { short: 'Spanish Parade',
-       shortLocalised: 'Paráid na Spáinne.',
-       full: 'Spanish Parade (Spanish Arch)',
-       fullLocalised: '' },
-    location: { longitude: -9.054770833, latitude: 53.27040611 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522021',
-    displayId: '522021',
-    name: 
-     { short: 'Fr Griffin Rd',
-       shortLocalised: 'Br. Ath Uí Ghríofa',
-       full: 'Fr Griffin Rd (Opp Fr Griffin Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.058340833, latitude: 53.26823583 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522031',
-    displayId: '522031',
-    name: 
-     { short: 'Fr Griffin Ave',
-       shortLocalised: 'Asc Ath Uí Ghríofa',
-       full: 'Fr Griffin Ave (Opp Sea Road)',
-       fullLocalised: '' },
-    location: { longitude: -9.06299, latitude: 53.26788056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522041',
-    displayId: '522041',
-    name: 
-     { short: 'Ballybane Ind Est.(',
-       shortLocalised: '',
-       full: 'Ballybane Ind Est.(Hewlett Packard)',
-       fullLocalised: '' },
-    location: { longitude: -9.006615556, latitude: 53.29187167 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522061',
-    displayId: '522061',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Lios Ealtan)',
-       fullLocalised: '' },
-    location: { longitude: -9.066085, latitude: 53.26820528 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522071',
-    displayId: '522071',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (St Josephs)',
-       fullLocalised: '' },
-    location: { longitude: -9.069158056, latitude: 53.26683111 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522081',
-    displayId: '522081',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Opp Devon Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.07225, latitude: 53.26495056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522091',
-    displayId: '522091',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Opp Warwick Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -9.07279, latitude: 53.26258056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522101',
-    displayId: '522101',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Canton Kitchen)',
-       fullLocalised: '' },
-    location: { longitude: -9.07509, latitude: 53.26082083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522111',
-    displayId: '522111',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Opp Western House)',
-       fullLocalised: '' },
-    location: { longitude: -9.079, latitude: 53.25830083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522121',
-    displayId: '522121',
-    name: 
-     { short: 'Dalysfort Rd',
-       shortLocalised: 'Bóthar an Dúin',
-       full: 'Dalysfort Rd (Top of Hill)',
-       fullLocalised: '' },
-    location: { longitude: -9.08001, latitude: 53.25996056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522131',
-    displayId: '522131',
-    name: 
-     { short: 'Dalysfort Rd',
-       shortLocalised: 'Bóthar an Dúin',
-       full: 'Dalysfort Rd (Hollands Shop)',
-       fullLocalised: '' },
-    location: { longitude: -9.08, latitude: 53.26172083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522141',
-    displayId: '522141',
-    name: 
-     { short: 'Dalysfort Rd',
-       shortLocalised: 'Bóthar an Dúin',
-       full: 'Dalysfort Rd (Dr Mannix Rd Jctn)',
-       fullLocalised: '' },
-    location: { longitude: -9.08018, latitude: 53.26423083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522171',
-    displayId: '522171',
-    name: 
-     { short: 'Dr Mannix Rd (GAA P',
-       shortLocalised: '',
-       full: 'Dr Mannix Rd (GAA Pitch)',
-       fullLocalised: '' },
-    location: { longitude: -9.08717, latitude: 53.26368 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522181',
-    displayId: '522181',
-    name: 
-     { short: 'Threadneedle Rd',
-       shortLocalised: 'Br na Mine',
-       full: 'Threadneedle Rd (Opp Tennis Courts)',
-       fullLocalised: '' },
-    location: { longitude: -9.08947, latitude: 53.26270083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522191',
-    displayId: '522191',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Diving Board)',
-       fullLocalised: '' },
-    location: { longitude: -9.08994, latitude: 53.25749056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522201',
-    displayId: '522201',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Salthill Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -9.0858, latitude: 53.25794056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522211',
-    displayId: '522211',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Waterfront)',
-       fullLocalised: '' },
-    location: { longitude: -9.07883, latitude: 53.25858083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522221',
-    displayId: '522221',
-    name: 
-     { short: 'Upper Salthill Rd',
-       shortLocalised: 'Br Bhr. na Trá Uach',
-       full: 'Upper Salthill Rd (Caesars Palace)',
-       fullLocalised: '' },
-    location: { longitude: -9.0748, latitude: 53.26124056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522231',
-    displayId: '522231',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Opp Kelleghers Gar)',
-       fullLocalised: '' },
-    location: { longitude: -9.07248, latitude: 53.26381083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522251',
-    displayId: '522251',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Devon Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.07228, latitude: 53.26531056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522261',
-    displayId: '522261',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Feeneys Shop)',
-       fullLocalised: '' },
-    location: { longitude: -9.068656111, latitude: 53.26708722 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522271',
-    displayId: '522271',
-    name: 
-     { short: 'Salthill Rd Lwr',
-       shortLocalised: 'Br Bhr na Trá Íocht',
-       full: 'Salthill Rd Lwr (Opp Lios Ealtan)',
-       fullLocalised: '' },
-    location: { longitude: -9.066108333, latitude: 53.26830167 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522281',
-    displayId: '522281',
-    name: 
-     { short: 'Fr Griffin Ave',
-       shortLocalised: 'Asc Ath Uí Ghríofa',
-       full: 'Fr Griffin Ave (Montpellier Terrace)',
-       fullLocalised: '' },
-    location: { longitude: -9.062171667, latitude: 53.26754778 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522291',
-    displayId: '522291',
-    name: 
-     { short: 'Fr Griffin Rd',
-       shortLocalised: 'Br. Ath Uí Ghríofa',
-       full: 'Fr Griffin Rd (Fr Griffin Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.0581, latitude: 53.26858083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522301',
-    displayId: '522301',
-    name: 
-     { short: 'Dr Mannix Rd (Rockb',
-       shortLocalised: '',
-       full: 'Dr Mannix Rd (Rockbarton Rd )',
-       fullLocalised: '' },
-    location: { longitude: -9.08316, latitude: 53.26444 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522311',
-    displayId: '522311',
-    name: 
-     { short: 'Spanish Parade',
-       shortLocalised: 'Paráid na Spáinne.',
-       full: 'Spanish Parade (Jurys Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -9.054, latitude: 53.27035056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522331',
-    displayId: '522331',
-    name: 
-     { short: 'Eyre Square',
-       shortLocalised: 'An Fhaiche Mhór',
-       full: 'Eyre Square South (Stop No 9)',
-       fullLocalised: '' },
-    location: { longitude: -9.048780833, latitude: 53.27368361 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522341',
-    displayId: '522341',
-    name: 
-     { short: 'Shangort Rd',
-       shortLocalised: 'Br Sheanghoirt',
-       full: 'Shangort Rd (Cotters Shop)',
-       fullLocalised: '' },
-    location: { longitude: -9.11275, latitude: 53.26209056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522351',
-    displayId: '522351',
-    name: 
-     { short: 'Shangort Rd',
-       shortLocalised: 'Br Sheanghoirt',
-       full: 'Shangort Rd (Church)',
-       fullLocalised: '' },
-    location: { longitude: -9.11617, latitude: 53.26264056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522361',
-    displayId: '522361',
-    name: 
-     { short: 'Ballymoneen Rd',
-       shortLocalised: 'Br Bhl. an Mhóinín',
-       full: 'Ballymoneen Rd (Barna Rd Jctn)',
-       fullLocalised: '' },
-    location: { longitude: -9.11757, latitude: 53.26067056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522371',
-    displayId: '522371',
-    name: 
-     { short: 'Barna Road',
-       shortLocalised: 'Bóthar Bhearna',
-       full: 'Barna Road (Knocknacarra Cross)',
-       fullLocalised: '' },
-    location: { longitude: -9.10932, latitude: 53.26087083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522381',
-    displayId: '522381',
-    name: 
-     { short: 'Knocknacarra',
-       shortLocalised: 'Cnoc na Cathrach',
-       full: 'Knocknacarra (Topaz Filling Stat)',
-       fullLocalised: '' },
-    location: { longitude: -9.10369, latitude: 53.25856083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522391',
-    displayId: '522391',
-    name: 
-     { short: 'Knocknacarra Rd',
-       shortLocalised: 'Br Chnoc na Cathr.',
-       full: 'Knocknacarra Rd (Burren View Hts)',
-       fullLocalised: '' },
-    location: { longitude: -9.10201, latitude: 53.25958083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522401',
-    displayId: '522401',
-    name: 
-     { short: 'Knocknacarra Rd',
-       shortLocalised: 'Br Chnoc na Cathr.',
-       full: 'Knocknacarra Rd (Opp Woodlawn)',
-       fullLocalised: '' },
-    location: { longitude: -9.10083, latitude: 53.26198083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522411',
-    displayId: '522411',
-    name: 
-     { short: 'Kingston Rd',
-       shortLocalised: 'Br Bhaile an Rí',
-       full: 'Kingston Rd (Kingston Gardens)',
-       fullLocalised: '' },
-    location: { longitude: -9.10051, latitude: 53.26458083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522421',
-    displayId: '522421',
-    name: 
-     { short: 'Kingston Rd',
-       shortLocalised: 'Br Bhaile an Rí',
-       full: 'Kingston Rd (Manor Drive)',
-       fullLocalised: '' },
-    location: { longitude: -9.093208889, latitude: 53.26671333 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522431',
-    displayId: '522431',
-    name: 
-     { short: 'Taylors Hill Rd',
-       shortLocalised: 'An Bóthar Ard',
-       full: 'Taylors Hill Rd (Threadneedle Junct)',
-       fullLocalised: '' },
-    location: { longitude: -9.086913056, latitude: 53.26725722 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522441',
-    displayId: '522441',
-    name: 
-     { short: 'Taylors Hill Rd',
-       shortLocalised: 'An Bóthar Ard',
-       full: 'Taylors Hill Rd (Opp Ardmore)',
-       fullLocalised: '' },
-    location: { longitude: -9.083210278, latitude: 53.26821944 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522471',
-    displayId: '522471',
-    name: 
-     { short: 'Taylors Hill Rd',
-       shortLocalised: 'An Bóthar Ard',
-       full: 'Taylors Hill Rd (Highfield Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.077662778, latitude: 53.26917583 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522481',
-    displayId: '522481',
-    name: 
-     { short: 'Taylors Hill Rd',
-       shortLocalised: 'An Bóthar Ard',
-       full: 'Taylors Hill Rd (Opp St Annes)',
-       fullLocalised: '' },
-    location: { longitude: -9.072103889, latitude: 53.26883417 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522491',
-    displayId: '522491',
-    name: 
-     { short: 'Maunsells Rd',
-       shortLocalised: 'Br Mhóinséil',
-       full: 'Maunsells Rd (Maunsells Rd Junc)',
-       fullLocalised: '' },
-    location: { longitude: -9.07178, latitude: 53.27046056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522501',
-    displayId: '522501',
-    name: 
-     { short: 'Maunsells Rd',
-       shortLocalised: 'Br Mhóinséil',
-       full: 'Maunsells Rd (Higgins DIY)',
-       fullLocalised: '' },
-    location: { longitude: -9.07201, latitude: 53.27303056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522511',
-    displayId: '522511',
-    name: 
-     { short: 'Colmcille Road',
-       shortLocalised: 'Bóthar Cholm Cille',
-       full: 'Colmcille Rd (Scoil Bride)',
-       fullLocalised: '' },
-    location: { longitude: -9.070668889, latitude: 53.27353472 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522521',
-    displayId: '522521',
-    name: 
-     { short: 'Colmcille Road',
-       shortLocalised: 'Bóthar Cholm Cille',
-       full: 'Colmcille Rd (Opp Community Centre)',
-       fullLocalised: '' },
-    location: { longitude: -9.07095, latitude: 53.27540083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522531',
-    displayId: '522531',
-    name: 
-     { short: 'Costello Rd',
-       shortLocalised: 'Br Mhic Coisteala',
-       full: 'Costello Rd (Opp McDara Rd)',
-       fullLocalised: '' },
-    location: { longitude: -9.06763, latitude: 53.27499083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522541',
-    displayId: '522541',
-    name: 
-     { short: 'Costello Rd',
-       shortLocalised: 'Br Mhic Coisteala',
-       full: 'Costello Rd (HSE Clinic)',
-       fullLocalised: '' },
-    location: { longitude: -9.06425, latitude: 53.27437083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522551',
-    displayId: '522551',
-    name: 
-     { short: 'Newcastle Rd',
-       shortLocalised: 'Br an Chaisleáin N.',
-       full: 'Newcastle Rd (University Hospital)',
-       fullLocalised: '' },
-    location: { longitude: -9.063535833, latitude: 53.27606944 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522561',
-    displayId: '522561',
-    name: 
-     { short: 'University Rd',
-       shortLocalised: 'Br na hOllscoile',
-       full: 'University Rd (NUIG Main Gate)',
-       fullLocalised: '' },
-    location: { longitude: -9.06194, latitude: 53.276655 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522571',
-    displayId: '522571',
-    name: 
-     { short: 'University Rd',
-       shortLocalised: 'Br na hOllscoile',
-       full: 'University Rd (Cathedral)',
-       fullLocalised: '' },
-    location: { longitude: -9.056933889, latitude: 53.27549 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522591',
-    displayId: '522591',
-    name: 
-     { short: 'Francis St',
-       shortLocalised: 'Sr San Proinsias',
-       full: 'Francis St (Opp Abbey Church)',
-       fullLocalised: '' },
-    location: { longitude: -9.053691944, latitude: 53.27526778 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522611',
-    displayId: '522611',
-    name: 
-     { short: 'Eyre Square',
-       shortLocalised: 'An Fhaiche Mhór',
-       full: 'Eyre Square North (Stop No 1)',
-       fullLocalised: '' },
-    location: { longitude: -9.04961, latitude: 53.27517083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522621',
-    displayId: '522621',
-    name: 
-     { short: 'Prospect Hill',
-       shortLocalised: 'Cnoc na Radharc',
-       full: 'Prospect Hill (Fahys Pub)',
-       fullLocalised: '' },
-    location: { longitude: -9.046716389, latitude: 53.27742528 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522631',
-    displayId: '522631',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (Opp Tonerys Pub)',
-       fullLocalised: '' },
-    location: { longitude: -9.045123889, latitude: 53.27861028 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522651',
-    displayId: '522651',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (Liam Mellows Tce)',
-       fullLocalised: '' },
-    location: { longitude: -9.042521111, latitude: 53.28037306 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522681',
-    displayId: '522681',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (Spar Filling Station)',
-       fullLocalised: '' },
-    location: { longitude: -9.038574444, latitude: 53.28202444 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522691',
-    displayId: '522691',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (G Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -9.031852222, latitude: 53.28115278 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522701',
-    displayId: '522701',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Opp Renmore Park)',
-       fullLocalised: '' },
-    location: { longitude: -9.024801667, latitude: 53.27981972 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522711',
-    displayId: '522711',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Bon Secours Hosp)',
-       fullLocalised: '' },
-    location: { longitude: -9.021816389, latitude: 53.27834806 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522721',
-    displayId: '522721',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Opp Molloys Centra)',
-       fullLocalised: '' },
-    location: { longitude: -9.02381, latitude: 53.27683056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522731',
-    displayId: '522731',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Dun Na Mara)',
-       fullLocalised: '' },
-    location: { longitude: -9.02616, latitude: 53.27541083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522741',
-    displayId: '522741',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Opp Army Barracks)',
-       fullLocalised: '' },
-    location: { longitude: -9.02851, latitude: 53.27361056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522751',
-    displayId: '522751',
-    name: 
-     { short: 'Hawthorne Drive',
-       shortLocalised: 'Céide na Sceiche G.',
-       full: 'Hawthorne Drive (Blackthorn Pk)',
-       fullLocalised: '' },
-    location: { longitude: -9.02151, latitude: 53.27241056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522761',
-    displayId: '522761',
-    name: 
-     { short: 'Hawthorn Drive',
-       shortLocalised: 'Céide na Sceiche G.',
-       full: 'Hawthorn Drive (Rowan Ave)',
-       fullLocalised: '' },
-    location: { longitude: -9.01883, latitude: 53.27307083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522771',
-    displayId: '522771',
-    name: 
-     { short: 'Fuschia Drive',
-       shortLocalised: 'Céide na Fiúise',
-       full: 'Fuschia Drive (Larchfield Ave)',
-       fullLocalised: '' },
-    location: { longitude: -9.01607, latitude: 53.27295056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522781',
-    displayId: '522781',
-    name: 
-     { short: 'Ballyloughane Rd',
-       shortLocalised: 'Br Bhl. an Locháin',
-       full: 'Ballyloughane Rd (Op Murrough Ave Jct)',
-       fullLocalised: '' },
-    location: { longitude: -9.014609444, latitude: 53.27422139 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522791',
-    displayId: '522791',
-    name: 
-     { short: 'Ballyloughane Rd',
-       shortLocalised: 'Br Bhl. an Locháin',
-       full: 'Ballyloughane Rd (Dairies)',
-       fullLocalised: '' },
-    location: { longitude: -9.01362, latitude: 53.27691083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522801',
-    displayId: '522801',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Merlin Park Gate)',
-       fullLocalised: '' },
-    location: { longitude: -9.003437222, latitude: 53.27616694 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522811',
-    displayId: '522811',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (GMIT)',
-       fullLocalised: '' },
-    location: { longitude: -9.009975, latitude: 53.27719556 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522821',
-    displayId: '522821',
-    name: 
-     { short: 'Merlin Park',
-       shortLocalised: 'Páirc Mhuirlinne',
-       full: 'Merlin Park Terminus (Merlin Church)',
-       fullLocalised: '' },
-    location: { longitude: -8.994141111, latitude: 53.27723306 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522831',
-    displayId: '522831',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Opp Woodhaven)',
-       fullLocalised: '' },
-    location: { longitude: -9.005061944, latitude: 53.27653944 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522841',
-    displayId: '522841',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Opp GMIT)',
-       fullLocalised: '' },
-    location: { longitude: -9.01056, latitude: 53.27717083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522851',
-    displayId: '522851',
-    name: 
-     { short: 'Ballyloughane Rd',
-       shortLocalised: 'Br Bhl. an Locháin',
-       full: 'Ballyloughane Rd (Opp Dairies)',
-       fullLocalised: '' },
-    location: { longitude: -9.01346, latitude: 53.27674056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522861',
-    displayId: '522861',
-    name: 
-     { short: 'Ballyloughane Rd',
-       shortLocalised: 'Br Bhl. an Locháin',
-       full: 'Ballyloughane Rd (Murrough Ave Jct)',
-       fullLocalised: '' },
-    location: { longitude: -9.014575278, latitude: 53.27405917 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522871',
-    displayId: '522871',
-    name: 
-     { short: 'Fuschia Drive',
-       shortLocalised: 'Céide na Fiúise',
-       full: 'Fuschia Drive (Opp Larchfield Ave)',
-       fullLocalised: '' },
-    location: { longitude: -9.01622, latitude: 53.27293056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522881',
-    displayId: '522881',
-    name: 
-     { short: 'Hawthorne Drive',
-       shortLocalised: 'Céide na Sceiche G.',
-       full: 'Hawthorne Drive (Opp Rowan Ave)',
-       fullLocalised: '' },
-    location: { longitude: -9.01864, latitude: 53.27287056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522891',
-    displayId: '522891',
-    name: 
-     { short: 'Hawthorne Drive',
-       shortLocalised: 'Céide na Sceiche G.',
-       full: 'Hawthorne Drive (Opp Blackthorn Pk)',
-       fullLocalised: '' },
-    location: { longitude: -9.02131, latitude: 53.27229056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522901',
-    displayId: '522901',
-    name: 
-     { short: 'Hawthorne Drive',
-       shortLocalised: 'Céide na Sceiche G.',
-       full: 'Hawthorne Drive (Arbutus Ave Jctn)',
-       fullLocalised: '' },
-    location: { longitude: -9.0236, latitude: 53.27247056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522911',
-    displayId: '522911',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Army Barracks)',
-       fullLocalised: '' },
-    location: { longitude: -9.028759722, latitude: 53.2736125 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522921',
-    displayId: '522921',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Opp Dun Na Mara)',
-       fullLocalised: '' },
-    location: { longitude: -9.02607, latitude: 53.27557083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522941',
-    displayId: '522941',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Molloys Centra)',
-       fullLocalised: '' },
-    location: { longitude: -9.02381, latitude: 53.27692083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522951',
-    displayId: '522951',
-    name: 
-     { short: 'Renmore Rd',
-       shortLocalised: 'Br na Rinne Móire',
-       full: 'Renmore Rd (Duggans Shop)',
-       fullLocalised: '' },
-    location: { longitude: -9.02151, latitude: 53.27864056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522961',
-    displayId: '522961',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Woodlands)',
-       fullLocalised: '' },
-    location: { longitude: -9.026643889, latitude: 53.28021694 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522971',
-    displayId: '522971',
-    name: 
-     { short: 'Dublin Rd',
-       shortLocalised: 'Br Bhaile Átha Cl.',
-       full: 'Dublin Rd (Opp G Hotel)',
-       fullLocalised: '' },
-    location: { longitude: -9.032933611, latitude: 53.28173667 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522981',
-    displayId: '522981',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (New Cemetary)',
-       fullLocalised: '' },
-    location: { longitude: -9.038934722, latitude: 53.28186389 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '522991',
-    displayId: '522991',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (Connolly Terrace)',
-       fullLocalised: '' },
-    location: { longitude: -9.041413889, latitude: 53.28096778 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523001',
-    displayId: '523001',
-    name: 
-     { short: 'Bohermore',
-       shortLocalised: 'An Bóthar Mór',
-       full: 'Bohermore (Tonerys Bar)',
-       fullLocalised: '' },
-    location: { longitude: -9.04446, latitude: 53.27901056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523011',
-    displayId: '523011',
-    name: 
-     { short: 'Eyre Square',
-       shortLocalised: 'An Fhaiche Mhór',
-       full: 'Eyre Square East (Stop No 6)',
-       fullLocalised: '' },
-    location: { longitude: -9.04907, latitude: 53.27490083 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523021',
-    displayId: '523021',
-    name: 
-     { short: 'Francis St',
-       shortLocalised: 'Sr San Proinsias',
-       full: 'Francis Street (Abbey Church)',
-       fullLocalised: '' },
-    location: { longitude: -9.053646944, latitude: 53.27521389 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523031',
-    displayId: '523031',
-    name: 
-     { short: 'University Rd',
-       shortLocalised: 'Br na hOllscoile',
-       full: 'University Rd (Opp NUIG Main Gate)',
-       fullLocalised: '' },
-    location: { longitude: -9.061162778, latitude: 53.27645 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523041',
-    displayId: '523041',
-    name: 
-     { short: 'Newcastle Rd',
-       shortLocalised: 'Br an Chaisleáin N.',
-       full: 'Newcastle Rd (Opp University Hospital)',
-       fullLocalised: '' },
-    location: { longitude: -9.063556111, latitude: 53.27648139 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  { id: '523051',
-    displayId: '523051',
-    name: 
-     { short: 'Costello Rd',
-       shortLocalised: 'Br Mhic Coisteala',
-       full: 'Costello Rd (Opp HSE Clinic)',
-       fullLocalised: '' },
-    location: { longitude: -9.0654, latitude: 53.27431056 },
-    updatedAt: '08/01/2018 09:29:25',
-    operators: [ [Object] ] },
-  ... 198 more items ]
+[
+  {
+    "id": "346301",
+    "displayId": "346301",
+    "name": {
+      "short": "Maree (School)",
+      "shortLocalised": "",
+      "full": "Maree (School)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.949908889,
+      "latitude": 53.23196083
+    },
+    "updatedAt": "08/01/2018 09:29:20",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "350"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "346311",
+    "displayId": "346311",
+    "name": {
+      "short": "Maree (Costcutter)",
+      "shortLocalised": "",
+      "full": "Maree (Costcutter)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.949975,
+      "latitude": 53.23175056
+    },
+    "updatedAt": "08/01/2018 09:29:20",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "350"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "520321",
+    "displayId": "520321",
+    "name": {
+      "short": "Ballybrit",
+      "shortLocalised": "Baile an Bhriotaigh",
+      "full": "Monivea Rd (Clayton Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.988889167,
+      "latitude": 53.29107389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "520351",
+    "displayId": "520351",
+    "name": {
+      "short": "Lime Kiln",
+      "shortLocalised": "An Tiníl",
+      "full": "Lime Kiln (Opp Clada Group)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.034650556,
+      "latitude": 53.30169583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "520361",
+    "displayId": "520361",
+    "name": {
+      "short": "Ballindooley Cross",
+      "shortLocalised": "",
+      "full": "Ballindooley Cross (Northbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.023833889,
+      "latitude": 53.31292167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "520371",
+    "displayId": "520371",
+    "name": {
+      "short": "Curramore Bridge",
+      "shortLocalised": "Dr. Churraigh Mhóir",
+      "full": "Curramore Bridge (Northbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.019348611,
+      "latitude": 53.34219694
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "520381",
+    "displayId": "520381",
+    "name": {
+      "short": "Clonboo",
+      "shortLocalised": "Cluain Bú",
+      "full": "Clonboo (Cunniffes Bar)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01635,
+      "latitude": 53.37406167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "521341",
+    "displayId": "521341",
+    "name": {
+      "short": "Ballybane Ind Est (",
+      "shortLocalised": "",
+      "full": "Ballybane Ind Est (Entrance)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.012691944,
+      "latitude": 53.28953861
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522011",
+    "displayId": "522011",
+    "name": {
+      "short": "Spanish Parade",
+      "shortLocalised": "Paráid na Spáinne.",
+      "full": "Spanish Parade (Spanish Arch)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.054770833,
+      "latitude": 53.27040611
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522021",
+    "displayId": "522021",
+    "name": {
+      "short": "Fr Griffin Rd",
+      "shortLocalised": "Br. Ath Uí Ghríofa",
+      "full": "Fr Griffin Rd (Opp Fr Griffin Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.058340833,
+      "latitude": 53.26823583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522031",
+    "displayId": "522031",
+    "name": {
+      "short": "Fr Griffin Ave",
+      "shortLocalised": "Asc Ath Uí Ghríofa",
+      "full": "Fr Griffin Ave (Opp Sea Road)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06299,
+      "latitude": 53.26788056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522041",
+    "displayId": "522041",
+    "name": {
+      "short": "Ballybane Ind Est.(",
+      "shortLocalised": "",
+      "full": "Ballybane Ind Est.(Hewlett Packard)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.006615556,
+      "latitude": 53.29187167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522061",
+    "displayId": "522061",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Lios Ealtan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.066085,
+      "latitude": 53.26820528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522071",
+    "displayId": "522071",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (St Josephs)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.069158056,
+      "latitude": 53.26683111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522081",
+    "displayId": "522081",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Opp Devon Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07225,
+      "latitude": 53.26495056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522091",
+    "displayId": "522091",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Opp Warwick Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07279,
+      "latitude": 53.26258056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522101",
+    "displayId": "522101",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Canton Kitchen)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07509,
+      "latitude": 53.26082083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522111",
+    "displayId": "522111",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Opp Western House)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.079,
+      "latitude": 53.25830083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522121",
+    "displayId": "522121",
+    "name": {
+      "short": "Dalysfort Rd",
+      "shortLocalised": "Bóthar an Dúin",
+      "full": "Dalysfort Rd (Top of Hill)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08001,
+      "latitude": 53.25996056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522131",
+    "displayId": "522131",
+    "name": {
+      "short": "Dalysfort Rd",
+      "shortLocalised": "Bóthar an Dúin",
+      "full": "Dalysfort Rd (Hollands Shop)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08,
+      "latitude": 53.26172083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522141",
+    "displayId": "522141",
+    "name": {
+      "short": "Dalysfort Rd",
+      "shortLocalised": "Bóthar an Dúin",
+      "full": "Dalysfort Rd (Dr Mannix Rd Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08018,
+      "latitude": 53.26423083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522171",
+    "displayId": "522171",
+    "name": {
+      "short": "Dr Mannix Rd (GAA P",
+      "shortLocalised": "",
+      "full": "Dr Mannix Rd (GAA Pitch)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08717,
+      "latitude": 53.26368
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522181",
+    "displayId": "522181",
+    "name": {
+      "short": "Threadneedle Rd",
+      "shortLocalised": "Br na Mine",
+      "full": "Threadneedle Rd (Opp Tennis Courts)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08947,
+      "latitude": 53.26270083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522191",
+    "displayId": "522191",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Diving Board)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08994,
+      "latitude": 53.25749056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522201",
+    "displayId": "522201",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Salthill Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0858,
+      "latitude": 53.25794056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522211",
+    "displayId": "522211",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Waterfront)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07883,
+      "latitude": 53.25858083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522221",
+    "displayId": "522221",
+    "name": {
+      "short": "Upper Salthill Rd",
+      "shortLocalised": "Br Bhr. na Trá Uach",
+      "full": "Upper Salthill Rd (Caesars Palace)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0748,
+      "latitude": 53.26124056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522231",
+    "displayId": "522231",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Opp Kelleghers Gar)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07248,
+      "latitude": 53.26381083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522251",
+    "displayId": "522251",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Devon Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07228,
+      "latitude": 53.26531056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522261",
+    "displayId": "522261",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Feeneys Shop)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.068656111,
+      "latitude": 53.26708722
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522271",
+    "displayId": "522271",
+    "name": {
+      "short": "Salthill Rd Lwr",
+      "shortLocalised": "Br Bhr na Trá Íocht",
+      "full": "Salthill Rd Lwr (Opp Lios Ealtan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.066108333,
+      "latitude": 53.26830167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522281",
+    "displayId": "522281",
+    "name": {
+      "short": "Fr Griffin Ave",
+      "shortLocalised": "Asc Ath Uí Ghríofa",
+      "full": "Fr Griffin Ave (Montpellier Terrace)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.062171667,
+      "latitude": 53.26754778
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522291",
+    "displayId": "522291",
+    "name": {
+      "short": "Fr Griffin Rd",
+      "shortLocalised": "Br. Ath Uí Ghríofa",
+      "full": "Fr Griffin Rd (Fr Griffin Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0581,
+      "latitude": 53.26858083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522301",
+    "displayId": "522301",
+    "name": {
+      "short": "Dr Mannix Rd (Rockb",
+      "shortLocalised": "",
+      "full": "Dr Mannix Rd (Rockbarton Rd )",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08316,
+      "latitude": 53.26444
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522311",
+    "displayId": "522311",
+    "name": {
+      "short": "Spanish Parade",
+      "shortLocalised": "Paráid na Spáinne.",
+      "full": "Spanish Parade (Jurys Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.054,
+      "latitude": 53.27035056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522331",
+    "displayId": "522331",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square South (Stop No 9)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.048780833,
+      "latitude": 53.27368361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522341",
+    "displayId": "522341",
+    "name": {
+      "short": "Shangort Rd",
+      "shortLocalised": "Br Sheanghoirt",
+      "full": "Shangort Rd (Cotters Shop)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.11275,
+      "latitude": 53.26209056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522351",
+    "displayId": "522351",
+    "name": {
+      "short": "Shangort Rd",
+      "shortLocalised": "Br Sheanghoirt",
+      "full": "Shangort Rd (Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.11617,
+      "latitude": 53.26264056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522361",
+    "displayId": "522361",
+    "name": {
+      "short": "Ballymoneen Rd",
+      "shortLocalised": "Br Bhl. an Mhóinín",
+      "full": "Ballymoneen Rd (Barna Rd Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.11757,
+      "latitude": 53.26067056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522371",
+    "displayId": "522371",
+    "name": {
+      "short": "Barna Road",
+      "shortLocalised": "Bóthar Bhearna",
+      "full": "Barna Road (Knocknacarra Cross)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.10932,
+      "latitude": 53.26087083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522381",
+    "displayId": "522381",
+    "name": {
+      "short": "Knocknacarra",
+      "shortLocalised": "Cnoc na Cathrach",
+      "full": "Knocknacarra (Topaz Filling Stat)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.10369,
+      "latitude": 53.25856083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522391",
+    "displayId": "522391",
+    "name": {
+      "short": "Knocknacarra Rd",
+      "shortLocalised": "Br Chnoc na Cathr.",
+      "full": "Knocknacarra Rd (Burren View Hts)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.10201,
+      "latitude": 53.25958083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522401",
+    "displayId": "522401",
+    "name": {
+      "short": "Knocknacarra Rd",
+      "shortLocalised": "Br Chnoc na Cathr.",
+      "full": "Knocknacarra Rd (Opp Woodlawn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.10083,
+      "latitude": 53.26198083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522411",
+    "displayId": "522411",
+    "name": {
+      "short": "Kingston Rd",
+      "shortLocalised": "Br Bhaile an Rí",
+      "full": "Kingston Rd (Kingston Gardens)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.10051,
+      "latitude": 53.26458083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522421",
+    "displayId": "522421",
+    "name": {
+      "short": "Kingston Rd",
+      "shortLocalised": "Br Bhaile an Rí",
+      "full": "Kingston Rd (Manor Drive)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.093208889,
+      "latitude": 53.26671333
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522431",
+    "displayId": "522431",
+    "name": {
+      "short": "Taylors Hill Rd",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill Rd (Threadneedle Junct)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.086913056,
+      "latitude": 53.26725722
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522441",
+    "displayId": "522441",
+    "name": {
+      "short": "Taylors Hill Rd",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill Rd (Opp Ardmore)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.083210278,
+      "latitude": 53.26821944
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522471",
+    "displayId": "522471",
+    "name": {
+      "short": "Taylors Hill Rd",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill Rd (Highfield Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.077662778,
+      "latitude": 53.26917583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522481",
+    "displayId": "522481",
+    "name": {
+      "short": "Taylors Hill Rd",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill Rd (Opp St Annes)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.072103889,
+      "latitude": 53.26883417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522491",
+    "displayId": "522491",
+    "name": {
+      "short": "Maunsells Rd",
+      "shortLocalised": "Br Mhóinséil",
+      "full": "Maunsells Rd (Maunsells Rd Junc)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07178,
+      "latitude": 53.27046056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522501",
+    "displayId": "522501",
+    "name": {
+      "short": "Maunsells Rd",
+      "shortLocalised": "Br Mhóinséil",
+      "full": "Maunsells Rd (Higgins DIY)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07201,
+      "latitude": 53.27303056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522511",
+    "displayId": "522511",
+    "name": {
+      "short": "Colmcille Road",
+      "shortLocalised": "Bóthar Cholm Cille",
+      "full": "Colmcille Rd (Scoil Bride)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.070668889,
+      "latitude": 53.27353472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522521",
+    "displayId": "522521",
+    "name": {
+      "short": "Colmcille Road",
+      "shortLocalised": "Bóthar Cholm Cille",
+      "full": "Colmcille Rd (Opp Community Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07095,
+      "latitude": 53.27540083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522531",
+    "displayId": "522531",
+    "name": {
+      "short": "Costello Rd",
+      "shortLocalised": "Br Mhic Coisteala",
+      "full": "Costello Rd (Opp McDara Rd)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06763,
+      "latitude": 53.27499083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522541",
+    "displayId": "522541",
+    "name": {
+      "short": "Costello Rd",
+      "shortLocalised": "Br Mhic Coisteala",
+      "full": "Costello Rd (HSE Clinic)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06425,
+      "latitude": 53.27437083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522551",
+    "displayId": "522551",
+    "name": {
+      "short": "Newcastle Rd",
+      "shortLocalised": "Br an Chaisleáin N.",
+      "full": "Newcastle Rd (University Hospital)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.063535833,
+      "latitude": 53.27606944
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522561",
+    "displayId": "522561",
+    "name": {
+      "short": "University Rd",
+      "shortLocalised": "Br na hOllscoile",
+      "full": "University Rd (NUIG Main Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06194,
+      "latitude": 53.276655
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419",
+          "402",
+          "403",
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522571",
+    "displayId": "522571",
+    "name": {
+      "short": "University Rd",
+      "shortLocalised": "Br na hOllscoile",
+      "full": "University Rd (Cathedral)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.056933889,
+      "latitude": 53.27549
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405",
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522591",
+    "displayId": "522591",
+    "name": {
+      "short": "Francis St",
+      "shortLocalised": "Sr San Proinsias",
+      "full": "Francis St (Opp Abbey Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.053691944,
+      "latitude": 53.27526778
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403",
+          "405",
+          "404",
+          "419",
+          "407",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522611",
+    "displayId": "522611",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square North (Stop No 1)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04961,
+      "latitude": 53.27517083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522621",
+    "displayId": "522621",
+    "name": {
+      "short": "Prospect Hill",
+      "shortLocalised": "Cnoc na Radharc",
+      "full": "Prospect Hill (Fahys Pub)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.046716389,
+      "latitude": 53.27742528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "405",
+          "425",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522631",
+    "displayId": "522631",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (Opp Tonerys Pub)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.045123889,
+      "latitude": 53.27861028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "425",
+          "405",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522651",
+    "displayId": "522651",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (Liam Mellows Tce)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.042521111,
+      "latitude": 53.28037306
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "405",
+          "425",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522681",
+    "displayId": "522681",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (Spar Filling Station)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.038574444,
+      "latitude": 53.28202444
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "425",
+          "405",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522691",
+    "displayId": "522691",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (G Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.031852222,
+      "latitude": 53.28115278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "404",
+          "424",
+          "409",
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522701",
+    "displayId": "522701",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Renmore Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.024801667,
+      "latitude": 53.27981972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522711",
+    "displayId": "522711",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Bon Secours Hosp)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.021816389,
+      "latitude": 53.27834806
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522721",
+    "displayId": "522721",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Opp Molloys Centra)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02381,
+      "latitude": 53.27683056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522731",
+    "displayId": "522731",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Dun Na Mara)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02616,
+      "latitude": 53.27541083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522741",
+    "displayId": "522741",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Opp Army Barracks)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02851,
+      "latitude": 53.27361056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522751",
+    "displayId": "522751",
+    "name": {
+      "short": "Hawthorne Drive",
+      "shortLocalised": "Céide na Sceiche G.",
+      "full": "Hawthorne Drive (Blackthorn Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02151,
+      "latitude": 53.27241056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522761",
+    "displayId": "522761",
+    "name": {
+      "short": "Hawthorn Drive",
+      "shortLocalised": "Céide na Sceiche G.",
+      "full": "Hawthorn Drive (Rowan Ave)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01883,
+      "latitude": 53.27307083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522771",
+    "displayId": "522771",
+    "name": {
+      "short": "Fuschia Drive",
+      "shortLocalised": "Céide na Fiúise",
+      "full": "Fuschia Drive (Larchfield Ave)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01607,
+      "latitude": 53.27295056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522781",
+    "displayId": "522781",
+    "name": {
+      "short": "Ballyloughane Rd",
+      "shortLocalised": "Br Bhl. an Locháin",
+      "full": "Ballyloughane Rd (Op Murrough Ave Jct)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.014609444,
+      "latitude": 53.27422139
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522791",
+    "displayId": "522791",
+    "name": {
+      "short": "Ballyloughane Rd",
+      "shortLocalised": "Br Bhl. an Locháin",
+      "full": "Ballyloughane Rd (Dairies)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01362,
+      "latitude": 53.27691083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522801",
+    "displayId": "522801",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Merlin Park Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.003437222,
+      "latitude": 53.27616694
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522811",
+    "displayId": "522811",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (GMIT)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.009975,
+      "latitude": 53.27719556
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "404",
+          "409",
+          "419",
+          "424",
+          "434",
+          "20",
+          "X51",
+          "51",
+          "350",
+          "70",
+          "64",
+          "X20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522821",
+    "displayId": "522821",
+    "name": {
+      "short": "Merlin Park",
+      "shortLocalised": "Páirc Mhuirlinne",
+      "full": "Merlin Park Terminus (Merlin Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.994141111,
+      "latitude": 53.27723306
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522831",
+    "displayId": "522831",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Woodhaven)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.005061944,
+      "latitude": 53.27653944
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522841",
+    "displayId": "522841",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp GMIT)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01056,
+      "latitude": 53.27717083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "402",
+          "20",
+          "434",
+          "X51",
+          "X20",
+          "64",
+          "350",
+          "51"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522851",
+    "displayId": "522851",
+    "name": {
+      "short": "Ballyloughane Rd",
+      "shortLocalised": "Br Bhl. an Locháin",
+      "full": "Ballyloughane Rd (Opp Dairies)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01346,
+      "latitude": 53.27674056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522861",
+    "displayId": "522861",
+    "name": {
+      "short": "Ballyloughane Rd",
+      "shortLocalised": "Br Bhl. an Locháin",
+      "full": "Ballyloughane Rd (Murrough Ave Jct)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.014575278,
+      "latitude": 53.27405917
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522871",
+    "displayId": "522871",
+    "name": {
+      "short": "Fuschia Drive",
+      "shortLocalised": "Céide na Fiúise",
+      "full": "Fuschia Drive (Opp Larchfield Ave)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01622,
+      "latitude": 53.27293056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522881",
+    "displayId": "522881",
+    "name": {
+      "short": "Hawthorne Drive",
+      "shortLocalised": "Céide na Sceiche G.",
+      "full": "Hawthorne Drive (Opp Rowan Ave)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01864,
+      "latitude": 53.27287056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522891",
+    "displayId": "522891",
+    "name": {
+      "short": "Hawthorne Drive",
+      "shortLocalised": "Céide na Sceiche G.",
+      "full": "Hawthorne Drive (Opp Blackthorn Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02131,
+      "latitude": 53.27229056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522901",
+    "displayId": "522901",
+    "name": {
+      "short": "Hawthorne Drive",
+      "shortLocalised": "Céide na Sceiche G.",
+      "full": "Hawthorne Drive (Arbutus Ave Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0236,
+      "latitude": 53.27247056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522911",
+    "displayId": "522911",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Army Barracks)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.028759722,
+      "latitude": 53.2736125
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522921",
+    "displayId": "522921",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Opp Dun Na Mara)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02607,
+      "latitude": 53.27557083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522941",
+    "displayId": "522941",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Molloys Centra)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02381,
+      "latitude": 53.27692083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522951",
+    "displayId": "522951",
+    "name": {
+      "short": "Renmore Rd",
+      "shortLocalised": "Br na Rinne Móire",
+      "full": "Renmore Rd (Duggans Shop)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02151,
+      "latitude": 53.27864056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522961",
+    "displayId": "522961",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Woodlands)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.026643889,
+      "latitude": 53.28021694
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522971",
+    "displayId": "522971",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp G Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.032933611,
+      "latitude": 53.28173667
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "402",
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522981",
+    "displayId": "522981",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (New Cemetary)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.038934722,
+      "latitude": 53.28186389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "522991",
+    "displayId": "522991",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (Connolly Terrace)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.041413889,
+      "latitude": 53.28096778
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523001",
+    "displayId": "523001",
+    "name": {
+      "short": "Bohermore",
+      "shortLocalised": "An Bóthar Mór",
+      "full": "Bohermore (Tonerys Bar)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04446,
+      "latitude": 53.27901056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523011",
+    "displayId": "523011",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square East (Stop No 6)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04907,
+      "latitude": 53.27490083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403",
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523021",
+    "displayId": "523021",
+    "name": {
+      "short": "Francis St",
+      "shortLocalised": "Sr San Proinsias",
+      "full": "Francis Street (Abbey Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.053646944,
+      "latitude": 53.27521389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407",
+          "419",
+          "424",
+          "403",
+          "402",
+          "405",
+          "404",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523031",
+    "displayId": "523031",
+    "name": {
+      "short": "University Rd",
+      "shortLocalised": "Br na hOllscoile",
+      "full": "University Rd (Opp NUIG Main Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.061162778,
+      "latitude": 53.27645
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405",
+          "402",
+          "403",
+          "419",
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523041",
+    "displayId": "523041",
+    "name": {
+      "short": "Newcastle Rd",
+      "shortLocalised": "Br an Chaisleáin N.",
+      "full": "Newcastle Rd (Opp University Hospital)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.063556111,
+      "latitude": 53.27648139
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "434",
+          "424",
+          "403",
+          "402",
+          "64"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523051",
+    "displayId": "523051",
+    "name": {
+      "short": "Costello Rd",
+      "shortLocalised": "Br Mhic Coisteala",
+      "full": "Costello Rd (Opp HSE Clinic)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0654,
+      "latitude": 53.27431056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523061",
+    "displayId": "523061",
+    "name": {
+      "short": "Costello Rd",
+      "shortLocalised": "Br Mhic Coisteala",
+      "full": "Costello Rd (McDara Rd Junction)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06782,
+      "latitude": 53.27510083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523071",
+    "displayId": "523071",
+    "name": {
+      "short": "Colmcille Road",
+      "shortLocalised": "Bóthar Cholm Cille",
+      "full": "Colmcille Rd (Community Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0708,
+      "latitude": 53.27538056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523081",
+    "displayId": "523081",
+    "name": {
+      "short": "Colmcille Road",
+      "shortLocalised": "Bóthar Cholm Cille",
+      "full": "Colmcille Rd (Opp Scoil Bride)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07051,
+      "latitude": 53.27311056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523091",
+    "displayId": "523091",
+    "name": {
+      "short": "Maunsells Rd",
+      "shortLocalised": "Br Mhóinséil",
+      "full": "Maunsells Rd (Opp Higgins DIY)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07294,
+      "latitude": 53.27240083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523101",
+    "displayId": "523101",
+    "name": {
+      "short": "Taylors Hill",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill (St Annes)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0718175,
+      "latitude": 53.26880472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402",
+          "424"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523111",
+    "displayId": "523111",
+    "name": {
+      "short": "Taylors Hill",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill (Dominican Convent)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07739,
+      "latitude": 53.26896056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523121",
+    "displayId": "523121",
+    "name": {
+      "short": "Taylors Hill",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill (Ardmore)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.083332778,
+      "latitude": 53.26815278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523131",
+    "displayId": "523131",
+    "name": {
+      "short": "Taylors Hill",
+      "shortLocalised": "An Bóthar Ard",
+      "full": "Taylors Hill (Colaiste Einde)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08967,
+      "latitude": 53.26679056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523141",
+    "displayId": "523141",
+    "name": {
+      "short": "Kingston Rd",
+      "shortLocalised": "Br Bhaile an Rí",
+      "full": "Kingston Rd (Opp Manor Drive)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.094142778,
+      "latitude": 53.26643222
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523151",
+    "displayId": "523151",
+    "name": {
+      "short": "Kingston Rd",
+      "shortLocalised": "Br Bhaile an Rí",
+      "full": "Kingston Rd (Opp Kingston Gardens)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0998,
+      "latitude": 53.26482056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523161",
+    "displayId": "523161",
+    "name": {
+      "short": "Shangort Rd",
+      "shortLocalised": "Br Sheanghoirt",
+      "full": "Shangort Rd (Joyces Supermarket)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.104655278,
+      "latitude": 53.263405
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523171",
+    "displayId": "523171",
+    "name": {
+      "short": "Maunsells Rd",
+      "shortLocalised": "Br Mhóinséil",
+      "full": "Maunsells Rd (Opp Maunsells Rd Jct)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07178,
+      "latitude": 53.27046056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "402",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523181",
+    "displayId": "523181",
+    "name": {
+      "short": "University Rd",
+      "shortLocalised": "Br na hOllscoile",
+      "full": "University Rd (Opp Cathedral)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0582,
+      "latitude": 53.27580083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "402",
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523191",
+    "displayId": "523191",
+    "name": {
+      "short": "Prospect Hill",
+      "shortLocalised": "Cnoc na Radharc",
+      "full": "Prospect Hill (Andys Haircare)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.047243611,
+      "latitude": 53.27685583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "402"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523201",
+    "displayId": "523201",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square East (Stop No 7)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0485725,
+      "latitude": 53.27459972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523211",
+    "displayId": "523211",
+    "name": {
+      "short": "Go Bus Office",
+      "shortLocalised": "Oifig Go Bus",
+      "full": "Br Brendain Ui Either (Go Bus Office)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04678,
+      "latitude": 53.27624056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "404",
+          "409",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523231",
+    "displayId": "523231",
+    "name": {
+      "short": "Capwell Depot",
+      "shortLocalised": "Iosta T. an Chaipín",
+      "full": "College Rd Galway (City Hall)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.041798611,
+      "latitude": 53.276235
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523241",
+    "displayId": "523241",
+    "name": {
+      "short": "College Road",
+      "shortLocalised": "Bóthar an Choláiste",
+      "full": "College Rd Galway (Sportsground)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.037631944,
+      "latitude": 53.27921389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A",
+          "403",
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523251",
+    "displayId": "523251",
+    "name": {
+      "short": "College Road",
+      "shortLocalised": "Bóthar an Choláiste",
+      "full": "College Rd Galway (Loyola Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.03653,
+      "latitude": 53.27993083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523271",
+    "displayId": "523271",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Wellpark Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02772,
+      "latitude": 53.28393056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523281",
+    "displayId": "523281",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Crown Plaza)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.022011667,
+      "latitude": 53.28662056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A",
+          "403",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523301",
+    "displayId": "523301",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Monivea Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.015329167,
+      "latitude": 53.28894222
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523311",
+    "displayId": "523311",
+    "name": {
+      "short": "Ballybane Rd",
+      "shortLocalised": "Br an Bhaile Bháin",
+      "full": "Ballybane Rd (Opp Shopping Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.011763333,
+      "latitude": 53.28634
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523321",
+    "displayId": "523321",
+    "name": {
+      "short": "Ballybane Rd",
+      "shortLocalised": "Br an Bhaile Bháin",
+      "full": "Ballybane Rd (Opp Ard Aobhinn Drive)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01032,
+      "latitude": 53.28286278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523331",
+    "displayId": "523331",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Opp John Paul Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.006283889,
+      "latitude": 53.28125028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523341",
+    "displayId": "523341",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Opp Community Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0036,
+      "latitude": 53.28275083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523351",
+    "displayId": "523351",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Opp Gortcam)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0022,
+      "latitude": 53.28595056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523361",
+    "displayId": "523361",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Opp Glenavon Drive)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00374,
+      "latitude": 53.28729056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523381",
+    "displayId": "523381",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Cottages)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.002213611,
+      "latitude": 53.28867472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523391",
+    "displayId": "523391",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Ballybrit Heights)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.99836,
+      "latitude": 53.28976083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523421",
+    "displayId": "523421",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Western Motors Entr)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.984258056,
+      "latitude": 53.29343861
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523431",
+    "displayId": "523431",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Racecourse Side Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.986011667,
+      "latitude": 53.29697917
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "417",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523441",
+    "displayId": "523441",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Opp Racecourse Side Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.986205,
+      "latitude": 53.29733778
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "417",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523451",
+    "displayId": "523451",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Opp Western Motors Entr)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.984216944,
+      "latitude": 53.29339083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523461",
+    "displayId": "523461",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Clayton Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.988741944,
+      "latitude": 53.29109222
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523471",
+    "displayId": "523471",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Paddocks)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.99499,
+      "latitude": 53.29092056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523481",
+    "displayId": "523481",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Ballybrit Heights)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.99796,
+      "latitude": 53.28985083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523491",
+    "displayId": "523491",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Cottages)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0022,
+      "latitude": 53.28861056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523501",
+    "displayId": "523501",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Glenavon Drive)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00431,
+      "latitude": 53.28795083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523511",
+    "displayId": "523511",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Gortcam)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00225,
+      "latitude": 53.28622056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523521",
+    "displayId": "523521",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Sliabh Rua)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00167,
+      "latitude": 53.28358083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523531",
+    "displayId": "523531",
+    "name": {
+      "short": "Castlepark Rd",
+      "shortLocalised": "Br P. an Chaisleáin",
+      "full": "Castlepark Rd (Community Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00493,
+      "latitude": 53.28206056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523541",
+    "displayId": "523541",
+    "name": {
+      "short": "Ballybane Rd",
+      "shortLocalised": "Br an Bhaile Bháin",
+      "full": "Ballybane Rd (John Paul Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00724,
+      "latitude": 53.28060056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523551",
+    "displayId": "523551",
+    "name": {
+      "short": "Ballybane Rd",
+      "shortLocalised": "Br an Bhaile Bháin",
+      "full": "Ballybane Rd (St James Rd)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00992,
+      "latitude": 53.28141083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523561",
+    "displayId": "523561",
+    "name": {
+      "short": "Ballybane Rd",
+      "shortLocalised": "Br an Bhaile Bháin",
+      "full": "Ballybane Rd (Shopping Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.011078611,
+      "latitude": 53.28509528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523581",
+    "displayId": "523581",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Monivea Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0154875,
+      "latitude": 53.28891056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523631",
+    "displayId": "523631",
+    "name": {
+      "short": "McDonagh Ave",
+      "shortLocalised": "Asc Mhic Dhonncha",
+      "full": "McDonagh Ave (Old Mervue)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.018146389,
+      "latitude": 53.28601167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523641",
+    "displayId": "523641",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Opp Crown Plaza)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.021915278,
+      "latitude": 53.28664361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523651",
+    "displayId": "523651",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (GMIT Cluam Mhuire)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.026548056,
+      "latitude": 53.28444611
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523661",
+    "displayId": "523661",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Wellpark Retail Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.031833889,
+      "latitude": 53.28287917
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523671",
+    "displayId": "523671",
+    "name": {
+      "short": "College Road",
+      "shortLocalised": "Bóthar an Choláiste",
+      "full": "College Rd Galway (Opp Loyola Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.036173333,
+      "latitude": 53.28010639
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A",
+          "403",
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523681",
+    "displayId": "523681",
+    "name": {
+      "short": "College Road",
+      "shortLocalised": "Bóthar an Choláiste",
+      "full": "College Rd Galway (Opp Sportsground)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.038241667,
+      "latitude": 53.27876722
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523691",
+    "displayId": "523691",
+    "name": {
+      "short": "College Road",
+      "shortLocalised": "Bóthar an Choláiste",
+      "full": "College Rd Galway (Opp City Hall)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.041532778,
+      "latitude": 53.27642417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A",
+          "403",
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523711",
+    "displayId": "523711",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Opp Woodquay)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.05248,
+      "latitude": 53.27661056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407",
+          "424",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523721",
+    "displayId": "523721",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Galway Retail Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04925,
+      "latitude": 53.28048056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523731",
+    "displayId": "523731",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Opp Dunnes Stores)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04648,
+      "latitude": 53.28468083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523751",
+    "displayId": "523751",
+    "name": {
+      "short": "Terryland",
+      "shortLocalised": "Tír Oileáin",
+      "full": "Coolough Rd (Opp Menlo Park Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04816,
+      "latitude": 53.28814083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523761",
+    "displayId": "523761",
+    "name": {
+      "short": "Crestwood",
+      "shortLocalised": "Barr na Coille",
+      "full": "Crestwood (Crestwood 48 to 62)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04983,
+      "latitude": 53.29251056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523771",
+    "displayId": "523771",
+    "name": {
+      "short": "Tirellan Heights",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Heights (Ballinfoyle Rd)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.045996389,
+      "latitude": 53.29166833
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523781",
+    "displayId": "523781",
+    "name": {
+      "short": "Tirellan Hts",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Hts (Tirellan Hts 344-385)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0435,
+      "latitude": 53.29126083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523791",
+    "displayId": "523791",
+    "name": {
+      "short": "Tirellan Heights",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Heights (Headford Rd Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04222,
+      "latitude": 53.29012056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523801",
+    "displayId": "523801",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04073,
+      "latitude": 53.29081083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523811",
+    "displayId": "523811",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Sceilig Ard)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.03843,
+      "latitude": 53.29231056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523831",
+    "displayId": "523831",
+    "name": {
+      "short": "Br an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Op Baile Choiste)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.034038611,
+      "latitude": 53.29603111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523841",
+    "displayId": "523841",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Murphys Centra)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.030780556,
+      "latitude": 53.29638889
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523851",
+    "displayId": "523851",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Cluain Riocard)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02744,
+      "latitude": 53.29735056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523861",
+    "displayId": "523861",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Maigh Riocard)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.024146111,
+      "latitude": 53.29869
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523871",
+    "displayId": "523871",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Lochan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0274,
+      "latitude": 53.29721083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523881",
+    "displayId": "523881",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Baile an Choiste 102",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.03088,
+      "latitude": 53.29634083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523911",
+    "displayId": "523911",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Baile an Choiste 1 t",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.033691111,
+      "latitude": 53.29600194
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523921",
+    "displayId": "523921",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Ballinfoyle Mews)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.03804,
+      "latitude": 53.29237056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524071",
+    "displayId": "524071",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Brookedale)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.040566944,
+      "latitude": 53.29072889
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524091",
+    "displayId": "524091",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Dunnes Stores)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.045994444,
+      "latitude": 53.28522333
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524101",
+    "displayId": "524101",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Galway Shopping Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04861,
+      "latitude": 53.28106083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524111",
+    "displayId": "524111",
+    "name": {
+      "short": "Headford Rd",
+      "shortLocalised": "Br Áth Cinn",
+      "full": "Headford Rd (Woodquay)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.052389722,
+      "latitude": 53.27663028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524121",
+    "displayId": "524121",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square North (Stop No 2)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.04985,
+      "latitude": 53.27507056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407",
+          "419",
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524131",
+    "displayId": "524131",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Glenina Heights)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.020142222,
+      "latitude": 53.27874083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524141",
+    "displayId": "524141",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Dawn Dairies)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.014519444,
+      "latitude": 53.27771139
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524151",
+    "displayId": "524151",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Galway Crystal Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.997457222,
+      "latitude": 53.27446056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524171",
+    "displayId": "524171",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Coast Rd Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.983898889,
+      "latitude": 53.27544111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524181",
+    "displayId": "524181",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Castlegar Complex)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.976295278,
+      "latitude": 53.27757528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524191",
+    "displayId": "524191",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (An Fiodan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.978699167,
+      "latitude": 53.28201111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524201",
+    "displayId": "524201",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Amber Hse Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.98068,
+      "latitude": 53.28381083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524211",
+    "displayId": "524211",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Merlin Woods Prm Sch)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.982087778,
+      "latitude": 53.28499556
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524221",
+    "displayId": "524221",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Nestors Centra)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.983524444,
+      "latitude": 53.28630361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524231",
+    "displayId": "524231",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (NCT Entrance)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.98587,
+      "latitude": 53.28825056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524241",
+    "displayId": "524241",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Op Brierhill Shop Cen)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.98824,
+      "latitude": 53.29036083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524261",
+    "displayId": "524261",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Brierhill Shop Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.98746,
+      "latitude": 53.28970056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524271",
+    "displayId": "524271",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Opp Nestors Centra)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.983815,
+      "latitude": 53.28653417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524281",
+    "displayId": "524281",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Opp Primary School)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.981981111,
+      "latitude": 53.28496111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524291",
+    "displayId": "524291",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Opp An Fiodan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.97885,
+      "latitude": 53.28217083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524311",
+    "displayId": "524311",
+    "name": {
+      "short": "Deochuisce Rd",
+      "shortLocalised": "Br Dhabhach Uisce",
+      "full": "Doughiska Rd (Castan)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.97748,
+      "latitude": 53.28097083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524321",
+    "displayId": "524321",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Castlegar Complex)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.976399722,
+      "latitude": 53.27750556
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524331",
+    "displayId": "524331",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Kingsvalley Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.999441667,
+      "latitude": 53.27498889
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524341",
+    "displayId": "524341",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Dawn Dairies)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.013956111,
+      "latitude": 53.27761472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524351",
+    "displayId": "524351",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Opp Glenina Hgts)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.019024444,
+      "latitude": 53.27850056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524361",
+    "displayId": "524361",
+    "name": {
+      "short": "Foster St",
+      "shortLocalised": "Sr Foster",
+      "full": "Forster St (Morgans Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.046559167,
+      "latitude": 53.27496972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524371",
+    "displayId": "524371",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square East (Stop No 5)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.049193889,
+      "latitude": 53.27499139
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524401",
+    "displayId": "524401",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (G & L Stores)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.064914722,
+      "latitude": 53.28146472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524411",
+    "displayId": "524411",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (Moyola Park Entr)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06608,
+      "latitude": 53.28280056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524431",
+    "displayId": "524431",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (Greenfields Entr)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.06891,
+      "latitude": 53.28688083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524441",
+    "displayId": "524441",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Clifton Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.074653056,
+      "latitude": 53.28814806
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524451",
+    "displayId": "524451",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Fairlands Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.073564444,
+      "latitude": 53.28471417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524461",
+    "displayId": "524461",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (St Josephs School)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.072733056,
+      "latitude": 53.28344667
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524481",
+    "displayId": "524481",
+    "name": {
+      "short": "Siobhain McKenna Rd",
+      "shortLocalised": "Br S. Nic Cionnaith",
+      "full": "Siobhain McKenna Rd (Corrib Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.074276944,
+      "latitude": 53.28147972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524491",
+    "displayId": "524491",
+    "name": {
+      "short": "Siobhain McKenna Rd",
+      "shortLocalised": "Br S. Nic Cionnaith",
+      "full": "Siobhain McKenna Rd (Camillaun Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.077478333,
+      "latitude": 53.27947639
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524501",
+    "displayId": "524501",
+    "name": {
+      "short": "Merchants Rd",
+      "shortLocalised": "Br na gCeannaithe",
+      "full": "Merchants Rd (Kinlay House)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.048779444,
+      "latitude": 53.27313611
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "424",
+          "401"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524531",
+    "displayId": "524531",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Ardilaun Road)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.070655833,
+      "latitude": 53.28064083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "524541",
+    "displayId": "524541",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Opp Ardilaun Rd)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.070761944,
+      "latitude": 53.28055278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525501",
+    "displayId": "525501",
+    "name": {
+      "short": "Siobhain McKenna Rd",
+      "shortLocalised": "Br S. Nic Cionnaith",
+      "full": "Siobhain McKenna Rd (Westside Pitches)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.080505833,
+      "latitude": 53.27695306
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525521",
+    "displayId": "525521",
+    "name": {
+      "short": "Circular Road",
+      "shortLocalised": "An Cuarbhóthar",
+      "full": "Circular Rd (Opp Currach Bui)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.082021389,
+      "latitude": 53.27528333
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525531",
+    "displayId": "525531",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Op Rahoon Rd Jctn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.079290278,
+      "latitude": 53.27443417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525541",
+    "displayId": "525541",
+    "name": {
+      "short": "Westside S.C.",
+      "shortLocalised": "IS an Taoibh Thiar",
+      "full": "Westside (Shopping Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0776,
+      "latitude": 53.27615056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525561",
+    "displayId": "525561",
+    "name": {
+      "short": "Siobhain McKenna Rd",
+      "shortLocalised": "Br S. Nic Cionnaith",
+      "full": "Siobhain McKenna Rd (Gaelcarrig Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.077745833,
+      "latitude": 53.27919278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525571",
+    "displayId": "525571",
+    "name": {
+      "short": "Siobhain McKenna Rd",
+      "shortLocalised": "Br S. Nic Cionnaith",
+      "full": "Siobhain McKenna Rd (Laurel Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.074136389,
+      "latitude": 53.28155111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525581",
+    "displayId": "525581",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Opp St Josephs Sch)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.072926667,
+      "latitude": 53.28362639
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525591",
+    "displayId": "525591",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Hazel Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07362,
+      "latitude": 53.28461056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525601",
+    "displayId": "525601",
+    "name": {
+      "short": "Thomas Hynes Rd",
+      "shortLocalised": "Br Thomáis Uí Eidh.",
+      "full": "Thomas Hynes Rd (Tudor Lawns)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.07469,
+      "latitude": 53.28851083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525611",
+    "displayId": "525611",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (Corrib Village)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.069564167,
+      "latitude": 53.28760444
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525631",
+    "displayId": "525631",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (AIB Bank)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.064742222,
+      "latitude": 53.28141056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525641",
+    "displayId": "525641",
+    "name": {
+      "short": "Eyre Square",
+      "shortLocalised": "An Fhaiche Mhór",
+      "full": "Eyre Square East (Stop No 8)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.048536389,
+      "latitude": 53.27457417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525651",
+    "displayId": "525651",
+    "name": {
+      "short": "Newcastle Rd Uppr",
+      "shortLocalised": "Br an Chaisleáin N.",
+      "full": "Newcastle Rd Uppr (Opp NUIG West Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.063274444,
+      "latitude": 53.27890111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419",
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525661",
+    "displayId": "525661",
+    "name": {
+      "short": "Lwr Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc",
+      "full": "Lwr Newcastle (Opp St Francis Home)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0678075,
+      "latitude": 53.28547444
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525671",
+    "displayId": "525671",
+    "name": {
+      "short": "Lower Newcastle",
+      "shortLocalised": "An CaisleánNua Íoc.",
+      "full": "Lower Newcastle (St Francis Home)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.067763889,
+      "latitude": 53.28550444
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525681",
+    "displayId": "525681",
+    "name": {
+      "short": "Newcastle Rd",
+      "shortLocalised": "Br an Chaisleáin N.",
+      "full": "Newcastle Rd (NUIG West Gate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.063163056,
+      "latitude": 53.27858028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "404",
+          "419"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525691",
+    "displayId": "525691",
+    "name": {
+      "short": "Gort na Bro",
+      "shortLocalised": "Gort na Bró",
+      "full": "Gort na Bro (B&Q Retail Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0967,
+      "latitude": 53.27176056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525701",
+    "displayId": "525701",
+    "name": {
+      "short": "Garrai De Brun",
+      "shortLocalised": "Garraí De Brún",
+      "full": "Garrai de Brun (Op Garrai de Brun Ent)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.090046667,
+      "latitude": 53.27022528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525711",
+    "displayId": "525711",
+    "name": {
+      "short": "Bishop O Donnell Rd",
+      "shortLocalised": "Br Esp Uí Dhónaill",
+      "full": "Bishop O Donnell Rd (Opp Droim Chaoin)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.08679,
+      "latitude": 53.27096806
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525721",
+    "displayId": "525721",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Rahoon Rd Junc)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.084266111,
+      "latitude": 53.27342389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525731",
+    "displayId": "525731",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Circular Rd Junc)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.079772778,
+      "latitude": 53.27430028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525741",
+    "displayId": "525741",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Westside Shopp Cent)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.075196111,
+      "latitude": 53.27577
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525751",
+    "displayId": "525751",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Corrib Park)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.071959722,
+      "latitude": 53.27776583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525761",
+    "displayId": "525761",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Snipe Lawn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.065115278,
+      "latitude": 53.28011389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525771",
+    "displayId": "525771",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Riverside Estate)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.031440556,
+      "latitude": 53.28633472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "417",
+          "425"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525781",
+    "displayId": "525781",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Opp Mervue Ind Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.027472222,
+      "latitude": 53.2875925
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525791",
+    "displayId": "525791",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Trappers Inn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.024428889,
+      "latitude": 53.28840972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "425"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525801",
+    "displayId": "525801",
+    "name": {
+      "short": "Connolly Ave",
+      "shortLocalised": "Asc. Uí Chonghaile",
+      "full": "Connolly Ave (Pearse Avenue)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.022930556,
+      "latitude": 53.28560472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525811",
+    "displayId": "525811",
+    "name": {
+      "short": "Connolly Ave",
+      "shortLocalised": "Asc. Uí Chonghaile",
+      "full": "Connolly Ave (Opp Fahys Field)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01792,
+      "latitude": 53.28376056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525851",
+    "displayId": "525851",
+    "name": {
+      "short": "St James Rd",
+      "shortLocalised": "Br San Séamas",
+      "full": "St James Rd (Opp Bayview Hgts)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01076,
+      "latitude": 53.28095056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525861",
+    "displayId": "525861",
+    "name": {
+      "short": "St James Rd",
+      "shortLocalised": "Br San Séamas",
+      "full": "St James Rd (HSE Clinic)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01584,
+      "latitude": 53.28139056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525871",
+    "displayId": "525871",
+    "name": {
+      "short": "Connolly Ave",
+      "shortLocalised": "Asc. Uí Chonghaile",
+      "full": "Connolly Ave (Walter Macken Flats)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.016635833,
+      "latitude": 53.28177861
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525881",
+    "displayId": "525881",
+    "name": {
+      "short": "Connolly Ave",
+      "shortLocalised": "Asc. Uí Chonghaile",
+      "full": "Connolly Ave (Fahys Field)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.01799,
+      "latitude": 53.28361083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525891",
+    "displayId": "525891",
+    "name": {
+      "short": "Connolly Ave",
+      "shortLocalised": "Asc. Uí Chonghaile",
+      "full": "Connolly Ave (Opp Pearse Ave)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02279,
+      "latitude": 53.28549056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525901",
+    "displayId": "525901",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Opp Trappers Inn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.02351,
+      "latitude": 53.28869083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "425"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525911",
+    "displayId": "525911",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Mervue Industrial Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.027406667,
+      "latitude": 53.28758333
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425",
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525921",
+    "displayId": "525921",
+    "name": {
+      "short": "Tuam Rd",
+      "shortLocalised": "Br Thuama",
+      "full": "Tuam Rd (Opp Riverside Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.031511944,
+      "latitude": 53.2863075
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405",
+          "425",
+          "417"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525931",
+    "displayId": "525931",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Opp Snipe Lawn)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.064806111,
+      "latitude": 53.28009083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525941",
+    "displayId": "525941",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Arch Motors)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.070026944,
+      "latitude": 53.27838361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525951",
+    "displayId": "525951",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (Westside Retail Pk)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.075276667,
+      "latitude": 53.27560083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525961",
+    "displayId": "525961",
+    "name": {
+      "short": "Seamus Quirke Rd",
+      "shortLocalised": "Br Shéam. Uí Chuirc",
+      "full": "Seamus Quirke Rd (ESB Sub Station)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.079290278,
+      "latitude": 53.27443417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525971",
+    "displayId": "525971",
+    "name": {
+      "short": "Bishop O Donnell Rd",
+      "shortLocalised": "Br Esp Uí Dhónaill",
+      "full": "Bishop O Donn Rd (Op Rahoon Rd Jnc)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.0837025,
+      "latitude": 53.27347083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525981",
+    "displayId": "525981",
+    "name": {
+      "short": "Bishop O Donnell Rd",
+      "shortLocalised": "Br Esp Uí Dhónaill",
+      "full": "Bishop O Donnell Rd (Droim Chaoin)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.086656389,
+      "latitude": 53.27086556
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "525991",
+    "displayId": "525991",
+    "name": {
+      "short": "Garrai De Brun",
+      "shortLocalised": "Garraí De Brún",
+      "full": "Garrai De Brun (Garrai De Brun Ent)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.090128611,
+      "latitude": 53.27022667
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526011",
+    "displayId": "526011",
+    "name": {
+      "short": "Oranmore Village",
+      "shortLocalised": "Sráidbh. Órán Mór",
+      "full": "Oranmore Village (Op Calacanctius Col)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.929915833,
+      "latitude": 53.26671056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526031",
+    "displayId": "526031",
+    "name": {
+      "short": "Bothair an Choiste",
+      "shortLocalised": "Bóthar an Chóiste",
+      "full": "Bothair an Choiste (Opp Maigh Riocard)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.024613889,
+      "latitude": 53.29862361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526041",
+    "displayId": "526041",
+    "name": {
+      "short": "St James Rd",
+      "shortLocalised": "Br San Séamas",
+      "full": "St James Road (Mervue Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.014701944,
+      "latitude": 53.28133389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526051",
+    "displayId": "526051",
+    "name": {
+      "short": "St James Rd",
+      "shortLocalised": "Br San Séamas",
+      "full": "St James Rd (Bayview Heights)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.010560556,
+      "latitude": 53.28099194
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "405"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526061",
+    "displayId": "526061",
+    "name": {
+      "short": "Tirellan Heights",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Heights (St Francis NS)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.042981944,
+      "latitude": 53.29012972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526071",
+    "displayId": "526071",
+    "name": {
+      "short": "Tirellan Heights",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Heights Opp (344 to 385)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.043751944,
+      "latitude": 53.29138083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526081",
+    "displayId": "526081",
+    "name": {
+      "short": "Tirellan Heights",
+      "shortLocalised": "Arda Thír Oileáin",
+      "full": "Tirellan Heights (Ballinfoyle Road)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.046268056,
+      "latitude": 53.29154056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526091",
+    "displayId": "526091",
+    "name": {
+      "short": "Crestwood",
+      "shortLocalised": "Barr na Coille",
+      "full": "Crestwood (Crestwood 47 to 33)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.048656944,
+      "latitude": 53.29219583
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "526101",
+    "displayId": "526101",
+    "name": {
+      "short": "Coolough Rd (Menlo",
+      "shortLocalised": "",
+      "full": "Coolough Rd (Menlo Park Apartments)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.048651944,
+      "latitude": 53.28848472
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "407"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530181",
+    "displayId": "530181",
+    "name": {
+      "short": "Loughgeorge",
+      "shortLocalised": "Loch Sheoirse",
+      "full": "Loughgeorge (Opp Garda Station)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.93159,
+      "latitude": 53.35632222
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "417",
+          "425",
+          "429",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530311",
+    "displayId": "530311",
+    "name": {
+      "short": "Claregalway",
+      "shortLocalised": "Baile Chláir",
+      "full": "Claregalway (Opp Cois Chlair)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.943108056,
+      "latitude": 53.34374306
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "52",
+          "65",
+          "64",
+          "417",
+          "425",
+          "429"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530331",
+    "displayId": "530331",
+    "name": {
+      "short": "Cregboy House",
+      "shortLocalised": "Teach na Creige Buí",
+      "full": "Cregboy House (Westbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.960144444,
+      "latitude": 53.33255083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "425",
+          "417"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530351",
+    "displayId": "530351",
+    "name": {
+      "short": "Castlegar",
+      "shortLocalised": "An Caisleán Gearr",
+      "full": "Castlegar (McHughs Pub)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.98611,
+      "latitude": 53.3138225
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "425",
+          "417"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530361",
+    "displayId": "530361",
+    "name": {
+      "short": "Donnellans Cross (W",
+      "shortLocalised": "",
+      "full": "Donnellans Cross (Westbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.984039722,
+      "latitude": 53.29225528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "417",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530421",
+    "displayId": "530421",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (Jctn Lios Caisil)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.99288,
+      "latitude": 53.29106056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530931",
+    "displayId": "530931",
+    "name": {
+      "short": "Bushy Park (Church)",
+      "shortLocalised": "",
+      "full": "Bushy Park (Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.092023056,
+      "latitude": 53.29545667
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "530941",
+    "displayId": "530941",
+    "name": {
+      "short": "Cloniffe Cross (Wes",
+      "shortLocalised": "",
+      "full": "Cloniffe Cross (Westbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.152091944,
+      "latitude": 53.31614028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "531071",
+    "displayId": "531071",
+    "name": {
+      "short": "Carnmore",
+      "shortLocalised": "An Carn Mór",
+      "full": "Carnmore Cross (Westbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.933191667,
+      "latitude": 53.30454611
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "531081",
+    "displayId": "531081",
+    "name": {
+      "short": "Carnmore X",
+      "shortLocalised": "X an Chairn Mhóir",
+      "full": "Carnmore Cross (Eastbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.933454167,
+      "latitude": 53.30454111
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "531451",
+    "displayId": "531451",
+    "name": {
+      "short": "Ballybrit Ind Est",
+      "shortLocalised": "E.T. Bhl an Bhriot.",
+      "full": "Ballybrit Ind Est (HP)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.00806,
+      "latitude": 53.29257056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "531841",
+    "displayId": "531841",
+    "name": {
+      "short": "Cregboy House",
+      "shortLocalised": "Teach na Creige Buí",
+      "full": "Cregboy House (Eastbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.962088056,
+      "latitude": 53.33161389
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "417",
+          "425",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "532231",
+    "displayId": "532231",
+    "name": {
+      "short": "Cloniffe Cross (Eas",
+      "shortLocalised": "",
+      "full": "Cloniffe Cross (Eastbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.151649444,
+      "latitude": 53.31589361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "532241",
+    "displayId": "532241",
+    "name": {
+      "short": "Bushy Park (Opp Chu",
+      "shortLocalised": "",
+      "full": "Bushy Park (Opp Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.090236667,
+      "latitude": 53.294505
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "419"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "533261",
+    "displayId": "533261",
+    "name": {
+      "short": "Monivea Rd",
+      "shortLocalised": "Br Mhuine Mheá",
+      "full": "Monivea Rd (VEC)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.032732778,
+      "latitude": 53.28270028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "533291",
+    "displayId": "533291",
+    "name": {
+      "short": "McDonagh Ave",
+      "shortLocalised": "Asc Mhic Dhonncha",
+      "full": "McDonagh Ave (Old Mervue Shops)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.018215278,
+      "latitude": 53.28596778
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "403",
+          "409"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "533551",
+    "displayId": "533551",
+    "name": {
+      "short": "Lime Kiln",
+      "shortLocalised": "An Tiníl",
+      "full": "Lime Kiln (Clada Group)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.034627222,
+      "latitude": 53.30168028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "533631",
+    "displayId": "533631",
+    "name": {
+      "short": "Loughgeorge",
+      "shortLocalised": "Loch Sheoirse",
+      "full": "Loughgeorge (Garda Station)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.931249722,
+      "latitude": 53.35681222
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "417",
+          "425",
+          "429"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "533771",
+    "displayId": "533771",
+    "name": {
+      "short": "Mc Hugh's Pub",
+      "shortLocalised": "Tábhairne Mc Hugh’s",
+      "full": "Castlegar (Opp McHughs Pub)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.986455,
+      "latitude": 53.31347889
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425",
+          "417",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "534681",
+    "displayId": "534681",
+    "name": {
+      "short": "Rosshill Cross",
+      "shortLocalised": "Crosaire Chnoc Rois",
+      "full": "Rosshill Cross (Coast Rd)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.975138333,
+      "latitude": 53.27202278
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551121",
+    "displayId": "551121",
+    "name": {
+      "short": "Rosshill Cross (Wes",
+      "shortLocalised": "",
+      "full": "Rosshill Cross (Westbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.974996389,
+      "latitude": 53.27197056
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551281",
+    "displayId": "551281",
+    "name": {
+      "short": "Castlegar",
+      "shortLocalised": "An Caisleán Gearr",
+      "full": "Castlegar (Church)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.015016944,
+      "latitude": 53.29542556
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "425",
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551291",
+    "displayId": "551291",
+    "name": {
+      "short": "Castlegar",
+      "shortLocalised": "An Caisleán Gearr",
+      "full": "Castlegar (Crossroad)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.014666111,
+      "latitude": 53.29585
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "425"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551411",
+    "displayId": "551411",
+    "name": {
+      "short": "Claregalway",
+      "shortLocalised": "Baile Chláir",
+      "full": "Claregalway (Cois Chlair Arches Hotel)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.94295,
+      "latitude": 53.34413861
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456",
+          "52",
+          "65",
+          "64",
+          "425",
+          "417",
+          "429"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551541",
+    "displayId": "551541",
+    "name": {
+      "short": "Clonboo",
+      "shortLocalised": "Cluain Bú",
+      "full": "Clonboo (Opp Cunniffes)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.016325556,
+      "latitude": 53.37408417
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "551951",
+    "displayId": "551951",
+    "name": {
+      "short": "Curramore Bridge",
+      "shortLocalised": "Dr. Churraigh Mhóir",
+      "full": "Curramore Bridge (Southbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.019351944,
+      "latitude": 53.34127083
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "552181",
+    "displayId": "552181",
+    "name": {
+      "short": "Donnellans X",
+      "shortLocalised": "X Uí Dhónalláin",
+      "full": "Donnellans Cross (Eastbound)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.984242222,
+      "latitude": 53.29219028
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "417",
+          "425A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "555041",
+    "displayId": "555041",
+    "name": {
+      "short": "Bus Station",
+      "shortLocalised": "Busáras",
+      "full": "Galway (Bus Station)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.047396944,
+      "latitude": 53.27394972
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "X20",
+          "52",
+          "51",
+          "350",
+          "70",
+          "65",
+          "64",
+          "456",
+          "434",
+          "425A",
+          "429",
+          "20",
+          "419",
+          "425",
+          "417",
+          "424",
+          "X51"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "555431",
+    "displayId": "555431",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Parkmore Ind Est)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.987199722,
+      "latitude": 53.29884528
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "556091",
+    "displayId": "556091",
+    "name": {
+      "short": "Oranmore Station Rd",
+      "shortLocalised": "Br an St. Óran Mór",
+      "full": "Oranmore (Oran Town Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.928681944,
+      "latitude": 53.27275167
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "70",
+          "51",
+          "350",
+          "X20",
+          "20",
+          "434"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "556161",
+    "displayId": "556161",
+    "name": {
+      "short": "Oranmore (Opp Oran",
+      "shortLocalised": "",
+      "full": "Oranmore (Opp Oran Town Centre)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.928641389,
+      "latitude": 53.27277361
+    },
+    "updatedAt": "08/01/2018 09:29:25",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "350",
+          "51",
+          "X20",
+          "434",
+          "20",
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "631211",
+    "displayId": "631211",
+    "name": {
+      "short": "Ballindooley X",
+      "shortLocalised": "X Bhaile an Dúlaigh",
+      "full": "Ballindooley (Stores)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.022973333,
+      "latitude": 53.31363778
+    },
+    "updatedAt": "22/01/2018 09:38:49",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "456"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "635561",
+    "displayId": "635561",
+    "name": {
+      "short": "Parkmore Rd",
+      "shortLocalised": "Br na Páirce Móire",
+      "full": "Parkmore Rd (Roundabout)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.986953889,
+      "latitude": 53.29908889
+    },
+    "updatedAt": "22/01/2018 09:38:49",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "409",
+          "403"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "888421",
+    "displayId": "888421",
+    "name": {
+      "short": "Dublin Rd",
+      "shortLocalised": "Br Bhaile Átha Cl.",
+      "full": "Dublin Rd (Galway Clinic)",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.973301389,
+      "latitude": 53.28197056
+    },
+    "updatedAt": "22/01/2018 09:38:49",
+    "operators": [
+      {
+        "name": "BE",
+        "routes": [
+          "404"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "GALWY",
+    "displayId": "Galway Station",
+    "name": {
+      "short": "",
+      "shortLocalised": "",
+      "full": "Céannt Station",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -9.046962547,
+      "latitude": 53.27361624
+    },
+    "updatedAt": "21/08/2013 15:38:57",
+    "operators": [
+      {
+        "name": "ir",
+        "routes": [
+          "Intercity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ORNMR",
+    "displayId": "Oranmore Station",
+    "name": {
+      "short": "",
+      "shortLocalised": "",
+      "full": "",
+      "fullLocalised": ""
+    },
+    "location": {
+      "longitude": -8.94792,
+      "latitude": 53.2751
+    },
+    "updatedAt": "21/08/2013 15:00:00",
+    "operators": [
+      {
+        "name": "ir",
+        "routes": [
+          "Commuter"
+        ]
+      }
+    ]
+  }
+]
