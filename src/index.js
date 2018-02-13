@@ -1,6 +1,8 @@
 
 const parseXML = require('xml2json')
 const request = require('request-promise-native')
+const haversine = require('haversine')
+
 const constants = require('./constants')
 const utils = require('./utils')
 
@@ -201,31 +203,44 @@ api.getStations = async ({format = 'raw'}) => {
   return unfiltered
 }
 
-api.getBusStops = async ({fields = null, format = 'raw'}) => {
+const isWithinBounds = ({radius, longitude, latitude}, {location}) => {
+  return haversine(location, {longitude, latitude}, {
+    threshold: radius,
+    unit: 'km'
+  })
+}
+
+const orderLocation = (location0, location1) => {
+  return haversine(location0, location1)
+}
+
+api.getBusStops = async ({fields = null, bounds = null, format = 'raw'}) => {
   const response = await busRequest('cgi-bin/rtpi/busstopinformation?stopid&format=json')
 
-  const unfiltered = response.results.map(stop => {
-    return {
-      id: stop.stopid,
-      displayId: stop.displaystopid,
-      name: {
-        short: stop.shortname,
-        shortLocalised: stop.shortnamelocalized,
-        full: stop.fullname,
-        fullLocalised: stop.fullnamelocalized
-      },
-      location: {
-        longitude: parseFloat(stop.longitude),
-        latitude: parseFloat(stop.latitude)
-      },
-      updatedAt: stop.lastupdated,
-      operators: stop.operators
-    }
-  })
+  const hits = response.results
+    .map(stop => {
+      return {
+        id: stop.stopid,
+        displayId: stop.displaystopid,
+        name: {
+          short: stop.shortname,
+          shortLocalised: stop.shortnamelocalized,
+          full: stop.fullname,
+          fullLocalised: stop.fullnamelocalized
+        },
+        location: {
+          longitude: parseFloat(stop.longitude),
+          latitude: parseFloat(stop.latitude)
+        },
+        updatedAt: stop.lastupdated,
+        operators: stop.operators
+      }
+    })
+    .filter(bounds ? isWithinBounds.bind(null, bounds) : () => true)
 
   const filtered = fields
-    ? [utils.array.findObj(fields, unfiltered)]
-    : unfiltered
+    ? [utils.array.findObj(fields, hits)]
+    : hits
 
   if (format === 'raw') {
     return filtered
@@ -238,16 +253,40 @@ api.getBusStops = async ({fields = null, format = 'raw'}) => {
           coordinates: [data.location.longitude, data.location.latitude]
         },
         properties: {
-          name: data.name.full
+          name: data.name.full,
+          operators: data.operators
         }
       }
     })
 
-     console.log(JSON.stringify({type: 'FeatureCollection', features}, null, 2))
+    return {type: 'FeatureCollection', features}
+  }
+}
 
-     return {type: 'FeatureCollection', features}
+const getDistance = (location, stop) => {
+  return haversine(location, stop.location, {unit: 'meter'})
+}
+
+api.getClosestBusStops = async ({fields = null, location}) => {
+  if (!location) {
+    throw new Error('location is not defined.')
   }
 
+  const stops = await api.getBusStops({fields, format: 'raw'})
+  const distances = stops
+    .map(stop => {
+      return {
+        stop,
+        location,
+        distance: getDistance(location, stop)}
+    })
+    .sort((stop0, stop1) => stop0.distance - stop1.distance)
+
+  distances.map(distance => {
+    if (distance) {
+      console.log( JSON.stringify(distance) )
+    }
+  })
 }
 
 api.getStopSchedule = async () => {
@@ -269,11 +308,5 @@ api.getOperators = async ({fields = null}) => {
     ? utils.array.findObj(fields, formatted)
     : formatted
 }
-
-const x = api.getBusStops({
-  fields: {
-    'name.short': 'Parnell Square'
-  }
-})
 
 module.exports = api
